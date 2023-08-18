@@ -1,0 +1,87 @@
+Name: True Neutral
+
+Owner: Zeero (+O-) | Type: Void 1/1
+|Output:12
+|Storage:5
+|Intake:1
+
+Passive:
+______________________________________________
+Neutrality (alpha|O):
+----------------------
+The users body gets reset upon change to a neutral Point.
+Also resets your Energy storage to full.
+----------------------
+
+Zero Space (epsilon|O):
+----------------------
+Makes a hole in 3D Space around the user. 
+Making all 3D attacks useless against the user.
+(Can be strenghend to cover higher Dimensions)
+----------------------
+
+Zero Space (epsilon|O)
+Extension-Room d/none:
+----------------------
+Enlargens Zero Space to make it indestructible.
+(Can still be surpassed by higher dimensional attacks)
+----------------------
+
+Absolute Zero T1 (sigma|O):
+----------------------
+Makes an infinitly small void around you automaticly negating Energy close to you.
+----------------------
+
+Absolute Zero T2 (Sigma|O):
+----------------------
+Realizes the Void erasing anything it touches.
+----------------------
+
+Absolute Zero (Gamma|O)
+Extension-Collapsed Void
+----------------------
+Uses concentrated Void to pierce the confines of the Weltop destroying it, but burning out absolute Zero for 20-60min (depending on mental and physical state plus the strength of the Weltop).
+----------------------
+_________________________________________________
+
+
+Active:
+_________________________________________________
+Negation T1 (alpha|O):
+----------------------
+Can remove the Energy of any Objekt in Range(10m) around you.(Line of sight is needed.)
+----------------------
+
+Negation T2 (Sigma|O):
+----------------------
+Can now stop spacetime for up to 10 sec.
+Also works on the natural laws (gravity, Electromagnetic, Nuclear etc) in the same timeframe but only in a limited range(5m) or on an objekt.
+----------------------
+
+Null (Gamma|O):
+----------------------
+Now you can erase matter(permanently) and concepts(temorarily) anywhere aslong as you know its position.
+----------------------
+
+
+Point Zero Base (alpha|O):
+---------------------
+[Creates an infinitly small point containing nothing in Range(7,5m) with a Max(3 Points). This point is not able to be interacted with.]
+
+|Point Zero T1 (alpha|O){dependant on "Neutrality"}:
+[Uses Neutral Energy to either teleport you there (removes the point) or just remove the point] 
+{Burns out dependant ability for .2 sec}
+
+|Point Zero T2 (Epsilon|+){dependant on "Zero Space"}:
+[Uses positive chaos to make the point larger bending space aroung it, pushing anything away, ignoring the laws of physics and shattering anything around it, even elastic surfaceses.]
+{Burns out dependant abilty for 1.5 sec}
+
+|Point Zero T3 (Sigma|-){dependant on "Absolute Zero"}:
+[Uses negative energy to strengthen the void. It creates a point in space where anything that aproaches becomes less the closer to the point eventualy reaching ZERO, erasing the it.]
+{Burns out depandant Ability for 2 sec}
+---------------------
+_________________________________________________
+
+
+
+

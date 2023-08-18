@@ -1,0 +1,71 @@
+Name: Liminal Space
+
+Owner: Naro (+) | Type: Control 3/4 Manifestation 1/4
+|Output:2062
+|Storage:201340
+|Intake:1623
+
+Base: New space (+)
+---------------------
+Temporarily creates space between two objekt, of which one is either yourself or an objekt you touch.
+The second objekt only needs to be within line of sight.
+---------------------
+
+Bonded rules:
+--------------
+1. All abilities get weaker the more the user feels but get stronger the more empty he is. Diverges at complete emptyness giving complete control over the liminal Space.
+--------------
+
+Passive:
+_______________________________________________
+Full Emptiness (Epsilon|O):
+---------------------
+{Only works during wio liminal}
+All damage inflicted upon you gets transfered to the terrain in the Wio Liminal instead.
+---------------------
+
+True Freedom (Epsilon|+):
+---------------------
+When active you ignore all things in the users way. 
+Also affects all liminal objekti inside wio liminal.
+Prolongued usage also starts to weaken the bond of atoms in the users body slowly killing him.
+---------------------
+_______________________________________________
+
+Active:
+_______________________________________________
+Wio liminal (Alpha|+)
+---------------------
+Manifests a dimension with an exact replica of of everything in a radius of one kilometer of the point of use from the users perspective.
+This reoplica contains all non organic material and wood. Inside the dimesnion the user can change the distance between objekts in line of sight at will.
+---------------------
+
+Position manipulation (Epsilon|O):
+---------------------
+By manipulaing the distance from you to all other objekts you change you position in space.
+---------------------
+
+Liminal ankers (Epsilon|+)
+---------------------
+Creates an anker in space max(4) in range(10m). The user can move the ankers in space and use them as relative points from which distance can be manipulated.
+---------------------
+
+liminal singularity (Sigma|+)
+---------------------
+Changes the distance between everything to zero, collapsing the dimension into itself makeing a temporary black hole for .2 sek. After usage the users Strorage is completly emptied and youre intake is 
+stunned for 5 sec.
+---------------------
+_______________________________________________
+
+Welto: Perspectives Emptiness (Dimensional/Reality overlay)
+--------------------
+Instantly removes all chaos inside Radius after activation, even before full manifestation.
+
+Dimenional:
+After manifestation also prohibits Kinetic energy as it simply doesnt exist for anyone but the user.
+
+
+
+
+
+
