@@ -13,6 +13,9 @@ The users body gets reset upon change to a neutral Point.
 Also resets your Energy storage to full.
 ----------------------
 
+||Function Amplification Negative(Epsilon|-):
+[Makes the User (partialy) ignore defense]
+
 Zero Space (epsilon|O):
 ----------------------
 Makes a hole in 3D Space around the user. 
@@ -20,22 +23,30 @@ Making all 3D attacks useless against the user.
 (Can be strenghend to cover higher Dimensions)
 ----------------------
 
-Zero Space (epsilon|O)
+Zero Space (epsilon|+)
 Extension-Room d/none:
 ----------------------
 Enlargens Zero Space to make it indestructible.
 (Can still be surpassed by higher dimensional attacks)
 ----------------------
 
-Absolute Zero T1 (sigma|O):
+Absolute Zero (sigma|O):
+[Creates a void around the user]
 ----------------------
-Makes an infinitly small void around you automaticly negating Energy close to you.
+|T1 Absolute Zero-No matter(sigma|-):
+[Anything becomes less the closer to the void]
+
+||Function Reversal-Divergent thought(sigma|+):
+[creates kinetic energy facing outward becoming more the closer to the void diverging at contact]
+
+
+|T2 Absolute Zero-Causality reset(sigma|O)
+[Resets the cause of contact to the void around the user or the user]
+
+||Function Parity Diversion Negative-Effect Neutralistation(gamma|O-)
+[Removes any and all effects on the user]
 ----------------------
 
-Absolute Zero T2 (Sigma|O):
-----------------------
-Realizes the Void erasing anything it touches.
-----------------------
 
 Absolute Zero (Gamma|O)
 Extension-Collapsed Void
@@ -52,35 +63,68 @@ Negation T1 (alpha|O):
 Can remove the Energy of any Objekt in Range(10m) around you.(Line of sight is needed.)
 ----------------------
 
+||Function Amlification Positive-Energy Amplification:
+[Strenghens any Phenomena on an Objekt the user touches]
+
 Negation T2 (Sigma|O):
 ----------------------
 Can now stop spacetime for up to 10 sec.
-Also works on the natural laws (gravity, Electromagnetic, Nuclear etc) in the same timeframe but only in a limited range(5m) or on an objekt.
+Also works on the natural laws (gravity, Electromagnetic, Nuclear etc) in the same timeframe but only in a limited range(5m) or on an objekt(los needed).
 ----------------------
+
+||Function Amlification Positive-Force Amplification:
+[Strenghens any Natural Force the User targets on an objekt in range(5m) and los]
 
 Null (Gamma|O):
 ----------------------
 Now you can erase matter(permanently) and concepts(temorarily) anywhere aslong as you know its position.
 ----------------------
 
+||Function Amlification Positive-Phenomena Amplification:
+[Strenghens any Phenomena the User targets in range(15m)]
+
+
+
 
 Point Zero Base (alpha|O):
 ---------------------
 [Creates an infinitly small point containing nothing in Range(7,5m) with a Max(3 Points). This point is not able to be interacted with.]
 
-|Point Zero T1 (alpha|O){dependant on "Neutrality"}:
-[Uses Neutral Energy to either teleport you there (removes the point) or just remove the point] 
+|Point Zero-Position Reset (alpha|O){dependant on "Neutrality"}:
+[Uses Neutral Energy to switch places with the point.] 
 {Burns out dependant ability for .2 sec}
 
-|Point Zero T2 (Epsilon|+){dependant on "Zero Space"}:
+||Function Amlification Positive-Point Rotation:
+[Changes the Position of the point (works simultaniously with other Point Zero Types)]
+
+||Function Amlification Negative-removal:
+[Removes the Point]
+
+
+|Point Zero-extended Space (Epsilon|+){dependant on "Zero Space"}:
 [Uses positive chaos to make the point larger bending space aroung it, pushing anything away, ignoring the laws of physics and shattering anything around it, even elastic surfaceses.]
 {Burns out dependant abilty for 1.5 sec}
 
-|Point Zero T3 (Sigma|-){dependant on "Absolute Zero"}:
-[Uses negative energy to strengthen the void. It creates a point in space where anything that aproaches becomes less the closer to the point eventualy reaching ZERO, erasing the it.]
+||Function Reversal-Twisted Space:
+[twist Space inwards creating a force similar to gravity plus a spin around the point]
+
+
+|Point Zero-Limit Null (Sigma|-){dependant on "Absolute Zero"}:
+[Uses negative energy to strengthen the void. It creates a point in space where anything that aproaches becomes less the closer to the point eventualy reaching ZERO, erasing it.]
 {Burns out depandant Ability for 2 sec}
+
+||Function Reversal-limit N0:
+[The Space around the Point contains more kinetic energy faceing away from the point the closer to it approaching infinity]
 ---------------------
+||Function Neutralisation-Burnt reset:
+[resets function making it no longer burnt out]
 _________________________________________________
+
+Dimensional Welto-Voided Reality:
+Makes anything in the Weltop become void ,also removes natural forces (including nuclear). Also makes the Chaos Usage (not Output) of the User Zero.
+
+
+
 
 
 
