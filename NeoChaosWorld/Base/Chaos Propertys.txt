@@ -1,0 +1,23 @@
+Chaotic Energy is divided into positive, negative and neutral Energy (this is called direction where neutral is the single point between them).
+This Energy is used to supply the Technique based in a Users Soul (Called soulbound chaos set - scs). Most techniques in these sets (called either Order-functions/O-Functions or sub-sets) only take a specific Energy type as input to work. The Effect of the function matches up with the direction of chaos where positive is proficient in makeing thing more/better/stronger, negative is proficient in makeing things lesser/worse/weaker and neutral energy is proficient in Set & Soul manipulation (explained later in "Ascended Techniques: Wrong input validity").
+
+
+Scale:
+Neutral:
+50% lesser
+50% better
+100% Manipulation
+
+Positive:
+10% lesser
+100% better
+0% Manipulation
+
+
+Negative:
+100% lesser
+1% better
+0% Manipulation
+
+
+
