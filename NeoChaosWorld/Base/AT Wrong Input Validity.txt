@@ -1,7 +1,7 @@
 Ascended Technique: Wrong Input Validity 
 
 Wrong Input Validity (short WIV) is a technique to alter the effect of a function by altering the direction of chaos used as input.
-The technique works by first starting the technique through the right direction of chaos and after the start of usage feed it the other direction. This needs to be in a ratio of 1 (Inital) to 5 (altered). If this ratio is not used it will either recoil or not work. Not every ability can be used with WIV but about 95% are compateble.
+The technique works by first starting the technique through the right direction of chaos and after the start of usage feed it another direction. This needs to be in a ratio of 1 (Inital) to 5 (altered). If this ratio is not used it will either recoil or not work. Not every ability can be used with WIV but about 95% are compateble.
 
 There are different kinds of WIV based on the initial needed input.
 
