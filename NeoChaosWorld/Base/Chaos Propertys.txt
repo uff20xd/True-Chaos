@@ -6,18 +6,15 @@ Scale:
 Neutral:
 50% lesser
 50% better
-100% Manipulation
 
 Positive:
 10% lesser
 100% better
-0% Manipulation
-
 
 Negative:
 100% lesser
 1% better
-0% Manipulation
 
+better = positive effect like creation 
 
-
+lesser = negative effect like destruction
