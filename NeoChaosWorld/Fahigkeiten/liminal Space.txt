@@ -24,9 +24,9 @@ Full Emptiness (Epsilon|O):
 All damage inflicted upon you gets transfered to the terrain in the Wio Liminal instead.
 ---------------------
 
-True Freedom (Epsilon|+):
+the truth of Freedom (Epsilon|+):
 ---------------------
-When active you ignore all things in the users way. 
+When active you ignore all chaos phenomena.  
 Also affects all liminal objekti inside wio liminal.
 Prolongued usage also starts to weaken the bond of atoms in the users body slowly killing him.
 ---------------------
@@ -61,7 +61,7 @@ Welto: Perspectives Emptiness (Dimensional/Reality overlay)
 --------------------
 Instantly removes all chaos inside Radius after activation, even before full manifestation.
 
-Dimenional:
+T2:
 After manifestation also prohibits Kinetic energy as it simply doesnt exist for anyone but the user.
 
 
