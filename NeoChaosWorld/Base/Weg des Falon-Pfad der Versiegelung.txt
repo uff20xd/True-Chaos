@@ -1,0 +1,31 @@
+Die Pfade vom Weg des Falon sind generlelle Chaos Sets welche jeder nutzen kann. Der Pfad der Versiegelung ist in der Lage Objekte oder Chaos in verschiedenen Wegen zu versiegeln.
+
+Erster Satz: Fessel
+---------------------
+Conjures a Ring of Order around the target, which restricts its movements and teleportation or positional manipulation abilities.
+---------------------
+
+Zweiter Satz: Ordnungs-sieglung
+---------------------
+Conjures a circle in which weak Chaos sets under a certain threshhold become unable to be used and for sets above the threshhold become less efficient and are weaker in effect.
+---------------------
+
+Dritter Satz: Enstsiegelung
+---------------------
+Used to slowly desolve Order back into chaos to remove seals or status effects. 
+---------------------
+
+Vierter Satz: Objekt Gravierung/Siegelung/Bindung
+---------------------
+Gravierung:
+Can engrave a single function into an objekt. The funtion will be at max 20% efficiency minus the quality of the objekt. The function needs to either belong to you or someone youre in a pact with.
+
+Siegelung:
+Can seal away a set, function, soul or entire Person into an objekt
+
+Bindung:
+Can bind a artifial or real soul to an objekt. For a real soul (or an artificial soul not created by your own chaos) to be bound it needs to be under pact with you. This means the object gains its own chaos production and storage and can be used to store chaos outside ones own body. Also because the object now contains a soul it can have a set or function imbued together with the soul. With this you can get a second set without needing to use you own energy. This Technique is th hardest of the three and costs too much energy for any type but manifestation (because of type attributes) and only the ones who trained it their entire lives can realy use it. The capabilities of the set and soul depend on the inserted soul itself and the quality of the object.
+---------------------
+
+
+

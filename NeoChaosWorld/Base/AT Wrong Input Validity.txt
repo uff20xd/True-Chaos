@@ -1,26 +1,26 @@
 Ascended Technique: Wrong Input Validity 
 
 Wrong Input Validity (short WIV) is a technique to alter the effect of a function by altering the direction of chaos used as input.
-The technique works by first starting the technique through the right direction of chaos and after the start of usage feed it another direction. This needs to be in a ratio of 1 (Inital) to 5 (altered). If this ratio is not used it will either recoil or not work. Not every ability can be used with WIV but about 95% are compateble.
+The technique works by first starting the technique through the right direction of chaos and after the start of usage feed it the other direction. This needs to be in a ratio of 1 (Inital) to 5 (altered). If this ratio is not used it will either recoil or not work. Not every ability can be used with WIV but about 95% are compateble.
 
 There are different kinds of WIV based on the initial needed input.
 
 Basic: 
 ___________________________________
 Function Reversal (-)-->(+) or (+)-->(-):
-Reverses the direction of input also reversing the output of the function.
+Reverses the direction of input also reversing the output of the function.(also needs a magnitude ratio of 1 to 1)
 
 Function Amplification (O)-->(+) or (O)-->(-):
-enlargens or extends the phenomena or alters its targets. Can basicly do fuckall to be honest in context of the inital function.
+enlargens or extends the phenomena or alters its targets. Can basicly do fuckall to be honest in context of the inital function. (the magnitude for the non neutral chaos needs to be higher than 10)
 ___________________________________
 
 Advanced:
 ___________________________________
 Function Neutralisation (-)-->(O) or (+)-->(O):
-Neutralises any drawbacks of the function. Recoil can be lethal to the user SCS and overusage does permanant damage to the soul and sometimes SCS depending on skill. Ratio NEEDS to be 100% PERFECT!
+Neutralises any drawbacks of the function. Recoil can be lethal to the user SCS and overusage does permanant damage to the soul and sometimes SCS depending on skill. Ratio NEEDS to be 100% PERFECT! (the magnitude for the non neutral chaos needs to be lower than 1)
 
 Function Interpretation parity (O)-->(O+/O-):
-Reinterprets the function altering the effect based on the function by change the interpretaion of its phenomena. The recoil can make the ability to target yourself and only you. Ratio NEEDS to be 100% PERFECT!
+Reinterprets the function altering the effect based on the function by change the interpretaion of its phenomena. The recoil can make the ability to target yourself and only you. Ratio NEEDS to be 100% PERFECT!(the magnitude for the non neutral chaos needs to be lower than 0.01)
 ___________________________________
 
 
