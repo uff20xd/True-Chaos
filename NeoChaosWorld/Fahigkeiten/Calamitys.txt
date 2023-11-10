@@ -1,7 +1,0 @@
-Name:Calamity
-
-Owner: Kevin (+) | Type: Control 3/4 Manifestation 1/4
-|Output:1409
-|Storage:120234
-|Intake:1023
-
