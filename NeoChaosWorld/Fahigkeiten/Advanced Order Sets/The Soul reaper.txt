@@ -1,0 +1,38 @@
+Name: The Soul Reaper
+
+Owner: Levia  (+O-) | Type: X
+|Output:
+|Storage:
+|Intake:
+
+Basic: Reassembly
+---------------------
+You can reassemble in any configuration. This also works to heal wounds and completly destroyed body parts.
+---------------------
+
+Passive:
+______________________________________________
+Reapers Storage (alpha|O):
+---------------------
+Can have one passive function from any Soul stored in the palace active. Swap_Cooldown(5 sek)
+---------------------
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+Hands of Reaper (alpha|O):
+---------------------
+Touching a Body which contains a soul drains its chaos. 
+Can manifest up to 4 Hands out of White Smoke which are controlled by the User. 
+---------------------
+
+_________________________________________________
+
+
+Velto Oktae: 
+---------------------
+
+---------------------

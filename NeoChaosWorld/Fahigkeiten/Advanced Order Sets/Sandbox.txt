@@ -1,0 +1,42 @@
+Name: The Voids Guardian
+
+Owner: Beludo (+O-) | Type: Void 1/1
+|Output:
+|Storage:
+|Intake:
+
+Passive:
+______________________________________________
+Quantaties Exaction (alpha|O):
+---------------------
+The User can quantify anything. This works for everything and gives an absolutly exact value.
+---------------------
+______________________________________________
+
+
+
+Active:
+_________________________________________________
+Value change(alpha|O):
+---------------------
+Can change the Values connected to things you touch. This does not work on yourself
+---------------------
+
+Vector assignation (Epsilon|O):
+---------------------
+Can change the Vector of anything you see or touch. This works on yourself regardlessly.
+---------------------
+
+TP (epsilon|O):
+---------------------
+You can change the value of your position in Space.
+---------------------
+
+
+_________________________________________________
+
+
+Velto Oktae: Creators Sandbox
+---------------------
+Inside the Veltop you can change any Value even your own. 
+---------------------

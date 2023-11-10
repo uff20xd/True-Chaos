@@ -1,0 +1,114 @@
+Name: Singularity Realisation
+
+Owner:  Magrus(+) | Type: Control 1/2 Exertion 1/1
+|Output:3060
+|Storage:103892
+|Intake:2597
+
+Base: Energy compression (+):
+----------------------
+You compress Energy into small point highering its efficiency where Singularity-power(p)=(Energy used)*(1+p/10) max(100)
+----------------------
+
+Passive:
+________________________________________
+Inner Concentration (Epsilon|+):
+----------------------
+Passively absorbs the energy in a radius around the user passivly getting stronger the closer. Up to 30%
+----------------------
+________________________________________
+
+Active:
+________________________________________
+Evolved Singularity(alpha|+):
+----------------------
+|Blue(alpha):
+|-----------
+|Strenghens the singularity makeing it visible with the naked eye and makes the scale Singularity-power(p)=((Energy used)*(1+p/10))/(1-p/100) max(100)
+|Glows Blue.
+|-----------
+
+|Green(alpha)
+|-----------
+|Heals the target.
+|Glows Green.
+|-----------
+
+|Yellow(Epsilon)
+|-----------
+|Emites a shockwave which slows anything it hits.
+|Also stops the usage of SCS depending on the skill of both user and hit.
+|-----------
+
+|Orange(Epsilon)
+|-----------
+|Creates matter temporarely. Attributes can be configured as wanted (some require multiple singularitys).
+|costs less the higher refinement.
+|-----------
+
+|Red(Sigma)
+|-----------
+|Collapses into a dense ray of energy that can pierces and explode space time itself.
+|-----------
+----------------------
+
+Evolved Singularity (Epsilon|)
+Extension-Singularity Expansion:
+----------------------
+|Blue(alpha):
+|-----------
+|You know the Position of everything in the Wio.
+|Glows Blue.
+|-----------
+
+|Green(alpha)
+|-----------
+|Heals the User constantly.
+|The User cannot die to physical or soul attacks
+|-----------
+
+|Yellow(Epsilon)
+|-----------
+|Slows anything in th Wio.
+|Also weakens SCS in the Wio.
+|-----------
+
+|Orange(Epsilon)
+|-----------
+|Creates matter temporarely anywhere in the Wio
+|costs less the higher refinement.
+|-----------
+
+|Red(Sigma)
+|-----------
+|Creates dense cuts and explosions of energy inside the Wiola. These have the same effects as "Red".
+|-----------
+----------------------
+
+Full Spectrum(Sigma):
+----------------------
+|Violett(Sigma):
+|-----------
+|Distorts Space innwards like water flowing down a drain in a set radius.
+|-----------
+
+|White(Gamma):
+|-----------
+|Absorbs the matter around it to then mimic the effect of any another colour or multiple at once in a higher state.
+|-----------
+----------------------
+
+
+Velto Oktae:The Colours of Delight
+----------------------
+Upon creation can create any souroundings the user decides. 
+
+Stage 1: loss of meaning
+The User can use the colour in his souroundings to use attacks of the same colour (Black becomes colourless instantly). The more colour used the stronger the attack. When all the colour is used up stage 2 starts.
+
+Stage 2: Blank Page
+Now everything becomes colourless and contrasts dissapear aswell. This includes the opponent outlines directly hurting his soul. Now the User can draw anything in this blank space and it will become reality. Then th thing thats drawn can be filled colour to give it meaning and effect.
+
+Stage 3: The Collapse
+The things drawn by you dissapear and the velto oktae dissapears aswell. Then the user expiriences heavy recoil based on how much colour given to drawn objects.
+----------------------

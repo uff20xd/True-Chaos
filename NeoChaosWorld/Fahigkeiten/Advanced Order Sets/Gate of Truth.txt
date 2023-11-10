@@ -1,0 +1,152 @@
+Name:Gate of Truth
+
+Owner: Corsario (+) | Type: Manifestation 1/2 X 1/2
+|Output:7902
+|Storage:360904
+|Intake:6808
+
+
+Basic: Teleportation (+):
+--------------------
+You can change your Position In Space and import momentum into yourself to move quickly.
+--------------------
+
+Ascs
+
+Passive:
+__________________________________________
+Boss Aura(alpha|-):
+--------------------
+Condenses the chaos around the user makeing it harder to move the closer to user one gets.
+--------------------
+
+Open Gate(alpha|O):
+--------------------
+After the gate is opened the "Gate of Truth" active abilities can be used.
+--------------------
+
+__________________________________________
+
+Active:
+_________________________________________________
+gate of Truth Ring 8(alpha|O):
+----------------------
+Guardian: Vorpal
+[Can Shapeshift into any Form. Is basicly liquid so physical attacks are useless if the neutral state or soul isnt attackesd directly.]
+
+Weapon: Akudo
+[Is liquid made out of strange matter but is not affected by Gravity. Can morph into any Weapon]
+Unchained: Mortem
+[takes the form of a Scythe and instantkly destroys the soul of anyone it hits]
+Oktae: Soul Verlass
+[destroys all souls excpet the user inside the Vio]
+----------------------
+
+Ring 7 (alpha|O):
+----------------------
+Guardian: Ragard
+[Can move into the complex plane of the spacial dimension doubling the available dimensions.]
+
+Weapon: Kamo octrin
+[The user can set the distance between any two objekts]
+Unchained:
+[Creates an imaginary slash with creates infinite distance between the both parts of tzhe objekt divided by the slash.]
+Otkae:
+[Black hole go brr (only inside the vio)]
+----------------------
+
+Ring 6 (Epsilon|O):
+----------------------
+Guardian: Spede
+[Absorbs energy around him for later usage and faster speeds.]
+
+Weapon: Accelero
+[Speeds up all your movement by *1.5]
+Unchained: Skip
+[Makes exactly one movement skip causality to make that movement instant]
+Oktae: all skip
+[All movements inside the Vio are Instant]
+----------------------
+
+Ring 5 (Epsilon|O):
+----------------------
+Guardian: Diabolo Avit
+[Has about 3 times the stats of meero and unlimited output by default. He has an ability that makes his body the hardest possible material there can be.]
+
+Weapon: Nevoodoo
+[2 Blades which when cutting through Magic also hurt the user and his soul. Except that just normal blades.]
+Unchained: Soul cut
+[Can damage ones soul ONCE]
+Oktae: none
+----------------------
+
+Ring 4 (Sigma|O):
+----------------------
+Guardian: Chrona
+[She sets up a clock. With the clock she can turn reality back (no takesie backsies) to a previous state. Also her movements become faster the closer the clock comes to 5 minutes converging to infinity.]
+[Cut Oblivion]
+
+Weapon: Fractall
+[Creates parallel Timelines that Overlay with reality to multiply the user and itself.]
+Unchained: Chrono fractale
+[Repeats any action an infinite amount of times at the same time.]
+Oktae: Chrono totale
+[Stops time inside the Vio.]
+----------------------
+
+Ring 3 (Sigma|O):
+----------------------
+Guardian: Atomoss
+[He can only be damaged at his neutral state. Also effects are delayed by 1 sec for him. In addition his position is only revealed once every second and he becomes stronger and faster with every blink (its exponential)]
+
+Weapon: Horus
+[Can punkture or slash anything without limitation. This includes any kind of phenomena including Forces and Concepts.]
+Unchained: Horus facee Ra
+[Pierces anything the user targets and generates as many cuts as wanted through this intercept. For this the Objekts position needs to be known by the user.]
+Oktae:
+[Infinitly splits anything in the Vio before every new piece is split again forever in an instant erasing everything through Oblivion.]
+----------------------
+
+Ring 2(Gamma|O):
+----------------------
+Guardian: Vector Trathum
+[He can only be damaged at his neutral state. Negates all effect around him using Set Neutralization on Reality istelf making any action impossible if not using set amplification. Can also manipulate Luck and generate it. Also he automaticly anyalyzes all phenomena around him and after full analysation which takes exactly 1 minute in his presence he can attack the phenomena itself destroying it gains 80% damage reduktion against it + Infinite Regen to all wounds and effects inflicetd by them.]
+
+Weapon: Clover
+[The user is unable to be hit because nothing effects him by pure chance. Also all hits are critical and and have a 10% chance to instantly kill the opponent.]
+Unchained: Chance Incarnate
+[Hits the opponent with pure chance. Effect is random.]
+Oktoe: Clover Calamity
+[The opponent inside the Vio randomly dies.]
+----------------------
+
+Ring 1(Gamma|O)
+{it sacrifices your soul to access this ring}
+----------------------
+Guardian: Laslodium
+[He can only be damaged at his neutral state. Immune to Chaos Phenomena. ]
+
+Weapon: Undefined 
+[Has all abilitys of the other rings and makes your neutral state regenerate.]
+Unchained: The Consequences of ones actions
+[Hits the Target with THE CONSEQUENCE erasing the target. This is Instant.]
+Oktae: Inconsequentiality
+[Creates THE OUTSIDE inside the Vio. It is a Replica of the Void outside the Chaos singularitys. Anything inside it collapses into itself slowly getting erased.]
+----------------------
+_________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
