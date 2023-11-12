@@ -18,12 +18,6 @@ Zero Space (epsilon|O):
 Creates Void around the user which prevents all contact with him.
 ----------------------
 
-Zero Space (epsilon|+)
-Extension-Room d/none:
-----------------------
-Creates 
-----------------------
-
 Absolute Zero (sigma|O):
 [Makes all functions cost no chaos to manifest.]
 ----------------------
