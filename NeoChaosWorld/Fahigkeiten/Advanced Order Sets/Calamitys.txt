@@ -1,20 +1,19 @@
 Name: Calamity
 
 Owner:Kelvin  (+O-) | Type: Exertion
-|Output:
 |Storage:
 |Intake:
 
 Basic: Disintegration (-)
 ---------------------
-Damages the thinks he touches using high energy elektro0 magnetic waves.
+Damages the things he touches using high energy elektro magnetic waves.
 ---------------------
 
 Passive:
 ______________________________________________
 Calamity Incarnate (alpha|-):
 ---------------------
-Sorounds the user in dense high energy gamma wave which dont radiate outside the chosen range.
+Creates raw calamity striking everyone that wants to hurt the user.
 ---------------------
 ______________________________________________
 
@@ -25,17 +24,17 @@ Active:
 _________________________________________________
 Shattering calamity(alpha|-):
 ---------------------
-Can create sheer calamity destroing anything it its way including ones neutral state. The get stronger depending on the amouint of energy input.
+Can create sheer calamity destroing anything it its way including the concept of a neutral state.
 ---------------------
 
 Function Reversal: Lifes Blessing (Sigma|+)
 ---------------------
-You can completly restore ones soul and even neutral state to its origin achieving perfect healing and even being able to revive the dead.
+You can completly restore ones soul to its origin achieving perfect healing and even being able to revive the dead.
 ---------------------
 _________________________________________________
 
 
 Velto: The Dread of Calamity
 ---------------------
-Inflict Calamity to anzýthing in its radius.
+Inflict Calamity to anything in its radius.
 ---------------------

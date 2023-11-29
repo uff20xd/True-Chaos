@@ -1,7 +1,6 @@
 Name: True Cold
 
 Owner:  Endima (from India) | Type: Control 4/5 X 1/5
-|Output:1800
 |Storage:18000
 |Intake:800
 

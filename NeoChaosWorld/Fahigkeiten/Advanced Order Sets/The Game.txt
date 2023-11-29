@@ -1,15 +1,40 @@
 Name: The Game
 
 Owner: :Argin Lopom (+O-) | Type: Void
-|Output: 1000
-|Storage: 10000
-|Intake: 100
+
+|Storage: 100000
+|Intake: 1000
 
 Passive:
 ______________________________________________
- (alpha|O):
+The game (alpha|O):
+---------------------
+Gives everything in a range a health bar and if it emptied the Object or soul gets destroyedm, its Chaos sealed away or "ctrl c + ctrl v is activated. This is a forced contract and is not removable excpet if conditions are met (system based).
 ---------------------
 
+Mission (alpha|O):
+---------------------
+This will give the user 10 missions at once. Each has another difficulty. These can include collecting a material or doing a specific action. These give you exp and currency.
+---------------------
+
+Level (alpha|O):
+---------------------
+Gain a level every 100^(1.1*L) exp (L being current level). The level is used to unlock better weapons.
+---------------------
+
+Kit (alpha|O):
+---------------------
+You can equip up to Three kits at once available at the store.
+
+Lvl 3: 
+- Kit slot 1 unlocked
+- Health kit unlocked
+- Damage kit unlocked
+---------------------
+
+Ctrl C + Ctrl V (alpha|O):
+---------------------
+Makes the order function or set of another person into a weapon with an according level requirement. This ability can be activated by making a contract with another person or by depleting a souls health bar.
 ---------------------
 ______________________________________________
 
@@ -18,9 +43,9 @@ ______________________________________________
 
 Active:
 _________________________________________________
-(alpha|O):
+Store (alpha|O):
 ---------------------
-
+Has a shop containing items against currency. Unlocks more weapons the higher level.
 ---------------------
 
 _________________________________________________

@@ -1,7 +1,6 @@
 Name: Lag Realization
 
 Owner: Walter Fundaine (-) | Type: X
-|Output: 720
 |Storage: 9000
 |Intake: 240
 

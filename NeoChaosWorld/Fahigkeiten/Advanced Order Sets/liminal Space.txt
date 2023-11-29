@@ -1,7 +1,6 @@
 Name: Liminal Space
 
 Owner: Narotemos (+) | Type: Control 3/4 Manifestation 1/4
-|Output:2 062
 |Storage:50 013
 |Intake: 623
 

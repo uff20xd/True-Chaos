@@ -1,0 +1,37 @@
+Name: The Mathematician
+
+Owner: Beludo (+O-) | Type: Void 1/1
+|Storage:
+|Intake:
+
+Passive:
+______________________________________________
+Quantaties Exaction (alpha|O):
+---------------------
+The User can quantify anything. This works for everything and gives an absolutly exact value.
+---------------------
+______________________________________________
+
+Active:
+_________________________________________________
+Number change (alpha|O):
+---------------------
+Can change the Values connected to objects you touch. This does not work on yourself.
+---------------------
+
+Number manipulation (Epsilon|O):
+---------------------
+Now also has a certain radius around the user in which he can change values of numbers. can now change his own Numbers.
+---------------------
+
+Imaginary assignation (Epsilon|O):
+---------------------
+Can now assign imaginary numbers to Values having different effects based on the object and the number that was changed.
+---------------------
+_________________________________________________
+
+
+Sign of the World, Velto Oktae: Hypothetical realm
+---------------------
+Can realize any axiom and apply it on the entire realm.
+---------------------

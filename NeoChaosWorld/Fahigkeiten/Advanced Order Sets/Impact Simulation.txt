@@ -1,0 +1,35 @@
+Name: Impact Simulation
+
+Owner:  (+O-) | Type: Exertion 1/2 Manipulation 1/2
+|Storage: 20000
+|Intake: 190
+
+Basic: Kinetic Transfer
+---------------------
+Can transfer the kinetic energy of an object the user touches to another whole Object in line of sight.
+---------------------
+
+
+Active:
+_________________________________________________
+Energy Transfer (alpha|O):
+---------------------
+Can transfer any Energy from an object you touch to another object in line of sight.
+---------------------
+
+Impact transfer (Epsilon|O):
+---------------------
+Can transfer all energy in Range 50m or line of sight to another object under the same condition.
+---------------------
+
+Impact Simulation (Sigma|O):
+---------------------
+Can create any kind of impact or just Raw energy onto any object in range 60m or line of sight.
+---------------------
+_________________________________________________
+
+
+Sign of the Basilisk, Velto Oktae: Death Simulation
+---------------------
+Can simulate the death or destruction of any object or soul an continously until the velto is closed.
+---------------------

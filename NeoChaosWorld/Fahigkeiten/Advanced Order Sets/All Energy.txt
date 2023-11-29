@@ -1,7 +1,6 @@
 Name: All Energy  
 
 Owner: Mezo (+) | Type: Strengthening 3/7 Exertion 4/7
-|Output: 120k
 |Storage: 28m
 |Intake: 145k
 
@@ -16,7 +15,7 @@ Passive:
 __________________________________________
 God amongs man(alpha|n):
 --------------------
-unlimits the output of the user and enlargens intake the longer (self) is active. powermultiplier(t)=1,01^t
+Enlargens intake exponentially the longer it is active. 
 Through the sheer amount of energy owned by the user he automaticly heals and has his body strengthend based on energy intake.
 The user progressivly overloads the body damiging the body if used to long.
 --------------------

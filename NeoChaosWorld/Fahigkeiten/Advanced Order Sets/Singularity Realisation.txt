@@ -1,7 +1,6 @@
 Name: Singularity Realisation
 
 Owner:  Magrus(+) | Type: Control 1/2 Exertion 1/1
-|Output:3060
 |Storage:103892
 |Intake:2597
 

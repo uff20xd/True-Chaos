@@ -1,7 +1,6 @@
 Name: The Soul Reaper
 
 Owner: Levia  (+O-) | Type: X
-|Output:
 |Storage:
 |Intake:
 

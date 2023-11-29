@@ -1,7 +1,6 @@
 Name:Gate of Truth
 
 Owner: Corsario (+) | Type: Manifestation 1/2 X 1/2
-|Output:7902
 |Storage:360904
 |Intake:6808
 
@@ -110,7 +109,7 @@ Oktae:
 Ring 2(Gamma|O):
 ----------------------
 Guardian: Vector Trathum
-[He can only be damaged at his neutral state. Negates all effect around him using Set Neutralization on Reality istelf making any action impossible if not using set amplification. Can also manipulate Luck and generate it. Also he automaticly anyalyzes all phenomena around him and after full analysation which takes exactly 1 minute in his presence he can attack the phenomena itself destroying it gains 80% damage reduktion against it + Infinite Regen to all wounds and effects inflicetd by them.]
+[Negates all effect around him using Set Neutralization on Reality istelf making any action impossible if not using set amplification. Can also manipulate Luck and generate it. Also he automaticly anyalyzes all phenomena around him and after full analysation which takes exactly 1 minute in his presence he can attack the phenomena itself destroying it gains 80% damage reduktion against it + Infinite Regen to all wounds and effects inflicetd by them.]
 
 Weapon: Clover
 [The user is unable to be hit because nothing effects him by pure chance. Also all hits are critical and and have a 10% chance to instantly kill the opponent.]
@@ -123,15 +122,15 @@ Oktoe: Clover Calamity
 Ring 1(Gamma|O)
 {it sacrifices your soul to access this ring}
 ----------------------
-Guardian: Laslodium
-[He can only be damaged at his neutral state. Immune to Chaos Phenomena. ]
+Guardian: Unknown
+[A small part of him.]
 
 Weapon: Undefined 
 [Has all abilitys of the other rings and makes your neutral state regenerate.]
-Unchained: The Consequences of ones actions
-[Hits the Target with THE CONSEQUENCE erasing the target. This is Instant.]
-Oktae: Inconsequentiality
-[Creates THE OUTSIDE inside the Vio. It is a Replica of the Void outside the Chaos singularitys. Anything inside it collapses into itself slowly getting erased.]
+Unchained: ERROR 404
+[Free at last]
+Oktae: htaeD
+[!nruter lliw eH]
 ----------------------
 _________________________________________________
 
