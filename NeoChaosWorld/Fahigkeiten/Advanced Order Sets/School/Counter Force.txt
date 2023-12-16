@@ -1,0 +1,37 @@
+Name: Counter Force
+
+Owner: Jimmy Leven (+O-) | Type: Manipulation
+|Storage: 
+|Intake: 
+
+Basic: Counter
+---------------------
+Creates an opposite force to a vectored object, while having 1/3 of the magnitude. This force can be applied over any area and it becomes harder the more dense. requires line of sight.
+---------------------
+
+Passive:
+______________________________________________
+Counterforce - encounter (alpha|-):
+---------------------
+Any vectored object will be met with a growing oppostie force automatically upon approch. TGhis force becomes stronger the closer and matches the object upon contact.
+---------------------
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+Counterforce (alpha|-):
+---------------------
+Can create an exact opposite force to any vectored while controlling its area of application.
+---------------------
+
+Counterforce - Extension (Epsilon|-):
+---------------------
+Attaches the counterforce to a concept and then starts to neutralize it. After its fully attachesd the concept can be stopped for about 10 seconds (different based on the concept.)
+Example: Attaches the counterforce to a kind of regeneration of an object. This results in a passive degeneration of an object slowly starting to match the regeneration.
+---------------------
+_________________________________________________
+
+

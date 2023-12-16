@@ -1,0 +1,44 @@
+Name: Gravity creation
+
+User: Albin Bosko (+O-) | Type: Manipulation
+|Storage:
+|Intake:
+
+Basic: Gravity amplification
+---------------------
+Can amplify the gravitational pull inflicted on objects around you, outside of yourself. Range of 10m.
+---------------------
+
+Notes:
+---------------------
+---------------------
+
+Passive:
+______________________________________________
+The mountains peak (alpha|+):
+---------------------
+Creates a figurative mountain of negative gravity which you stang atop of in a stable position.
+---------------------
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+Plus (alpha|+):
+---------------------
+Creates a point of negative gravity pushing anything away.
+---------------------
+
+Minus (alpha|-):
+---------------------
+Creates a point of negative gravity creating a massive force of attraction.
+---------------------
+_________________________________________________
+
+
+Velto Oktae: Black Hole
+---------------------
+Simulates the effects of a perfect black hole in its core inside of the entire Oktae.
+---------------------
