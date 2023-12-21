@@ -6,14 +6,14 @@ Owner:  Magrus(+) | Type: Control 1/2 Exertion 1/1
 
 Base: Energy compression (+):
 ----------------------
-You compress Energy into small point highering its efficiency where Singularity-power(p)=(Energy used)*(1+p/10) max(100)
+Compresses chaos into a -1nm of space. This causes the diffrence between concepts and reality to dissapear. Also makes its power diverge
 ----------------------
 
 Passive:
 ________________________________________
 Inner Concentration (Epsilon|+):
 ----------------------
-Passively absorbs the energy in a radius around the user passivly getting stronger the closer. Up to 30%
+
 ----------------------
 ________________________________________
 
@@ -47,7 +47,7 @@ Evolved Singularity(alpha|+):
 
 |Red(Sigma)
 |-----------
-|Collapses into a dense ray of energy that can pierces and explode space time itself.
+|Makes anything it hits instantly get turned into chaos. This also instantly destroys any soul it hits.
 |-----------
 ----------------------
 
@@ -56,7 +56,7 @@ Extension-Singularity Expansion:
 ----------------------
 |Blue(alpha):
 |-----------
-|You know the Position of everything in the Wio.
+|You know the Position of everything in the abstracio. Also gives gravity control to some degree.
 |Glows Blue.
 |-----------
 
@@ -68,19 +68,18 @@ Extension-Singularity Expansion:
 
 |Yellow(Epsilon)
 |-----------
-|Slows anything in th Wio.
-|Also weakens SCS in the Wio.
+|Pauses Reality.
 |-----------
 
 |Orange(Epsilon)
 |-----------
-|Creates matter temporarely anywhere in the Wio
+|Creates matter temporarely anywhere in the Abstricion
 |costs less the higher refinement.
 |-----------
 
 |Red(Sigma)
 |-----------
-|Creates dense cuts and explosions of energy inside the Wiola. These have the same effects as "Red".
+|Applies red inside the entire abstricion.
 |-----------
 ----------------------
 
@@ -88,7 +87,7 @@ Full Spectrum(Sigma):
 ----------------------
 |Violett(Sigma):
 |-----------
-|Distorts Space innwards like water flowing down a drain in a set radius.
+|Will remove properties of ones choice from anything it hits.
 |-----------
 
 |White(Gamma):

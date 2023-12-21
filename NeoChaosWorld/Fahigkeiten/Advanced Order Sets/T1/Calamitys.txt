@@ -1,0 +1,40 @@
+Name: Calamity
+
+Owner:Kelvin  (+O-) | Type: Exertion
+|Storage:
+|Intake:
+
+Basic: Disintegration (-)
+---------------------
+Damages the things he touches using high energy elektro magnetic waves.
+---------------------
+
+Passive:
+______________________________________________
+Calamity Incarnate (alpha|-):
+---------------------
+Creates raw calamity striking everyone that wants to hurt the user.
+---------------------
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+Shattering calamity(alpha|-):
+---------------------
+Can create sheer calamity destroing anything it its way including the concept of a neutral state.
+---------------------
+
+Function Reversal: Lifes Blessing (Sigma|+)
+---------------------
+You can completly restore ones soul to its origin achieving perfect healing and even being able to revive the dead.
+---------------------
+_________________________________________________
+
+
+Velto: The Dread of Calamity
+---------------------
+Inflict Calamity to anything in its radius.
+---------------------
