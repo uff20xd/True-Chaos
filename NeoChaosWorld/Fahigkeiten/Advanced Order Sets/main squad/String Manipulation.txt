@@ -9,6 +9,11 @@ Basic: String manipulation
 Can manipulate any string made either of plastik of horn.
 ---------------------
 
+Notes:
+---------------------
+Likes money very much. The reason hes an ordidnant. Too bad he dies L.
+---------------------
+
 Passive:
 ______________________________________________
 Mortal Stitches (Sigma|O):
@@ -16,8 +21,6 @@ Mortal Stitches (Sigma|O):
 Stitches all wounds inflicted on the user back together.
 ---------------------
 ______________________________________________
-
-
 
 
 Active:

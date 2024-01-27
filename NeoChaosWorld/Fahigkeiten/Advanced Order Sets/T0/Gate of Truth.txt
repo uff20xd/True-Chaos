@@ -75,7 +75,7 @@ Guardian: Diabolo Avit
 Weapon: Nevoodoo
 [2 Blades which when cutting through Magic also hurt the user and his soul. Except that just normal blades.]
 Unchained: Soul cut
-[Can damage ones soul ONCE]
+[]
 Oktae: none
 ----------------------
 
@@ -102,8 +102,8 @@ Weapon: Horus
 [Can punkture or slash anything without limitation. This includes any kind of phenomena including Forces and Concepts.]
 Unchained: Horus facee Ra
 [Pierces anything the user targets and generates as many cuts as wanted through this intercept. For this the Objekts position needs to be known by the user.]
-Oktae:
-[Infinitly splits anything in the Vio before every new piece is split again forever in an instant erasing everything through Oblivion.]
+Oktae: Horus Imagine ra
+[Infinitly splits anything in the Oktae before every new piece is split again forever in an instant erasing everything.]
 ----------------------
 
 Ring 2(Gamma|O):
@@ -122,15 +122,11 @@ Oktoe: Clover Calamity
 Ring 1(Gamma|O)
 {it sacrifices your soul to access this ring}
 ----------------------
-Guardian: Unknown
-[A small part of him.]
+Guardian: Enzefalo
+[A part of the imaginary one containing a just a fraction of its power.]
 
 Weapon: Undefined 
 [Has all abilitys of the other rings and makes your neutral state regenerate.]
-Unchained: ERROR 404
-[Free at last]
-Oktae: htaeD
-[!nruter lliw eH]
 ----------------------
 _________________________________________________
 

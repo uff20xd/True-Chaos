@@ -4,6 +4,11 @@ Owner: Jimmy Leven (+O-) | Type: Manipulation
 |Storage: 
 |Intake: 
 
+Notes:
+---------------------
+Is a soul created by Zeivero and is the first succesful stable fusion between a human soul and a phantom chaos condensation.
+---------------------
+
 Basic: Counter
 ---------------------
 Creates an opposite force to a vectored object, while having 1/3 of the magnitude. This force can be applied over any area and it becomes harder the more dense. requires line of sight.

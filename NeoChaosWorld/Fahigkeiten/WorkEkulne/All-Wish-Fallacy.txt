@@ -1,0 +1,8 @@
+Name: All Wish Fallacy
+
+User: Genum Wohl
+
+Effect:
+---------------------
+Fullfills any wish spoken in a Radius of 40m around the User. Everything comes at a cost.
+---------------------
