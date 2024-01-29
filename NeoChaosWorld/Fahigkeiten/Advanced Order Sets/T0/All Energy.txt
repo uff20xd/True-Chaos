@@ -1,8 +1,8 @@
 Name: Godhood
 
 Owner: Maax (+) | Type: Strengthening 3/7 Exertion 4/7
-|Storage: 28m
-|Intake: 145k
+|Storage: 28 000 000 000
+|Intake: 145 000 000
 
 Basic: Perfect blast
 ---------------------

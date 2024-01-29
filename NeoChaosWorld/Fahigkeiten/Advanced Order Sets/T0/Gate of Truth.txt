@@ -1,7 +1,7 @@
 Name:Gate of Truth
 
 Owner: Corsario (+) | Type: Manifestation 1/2 X 1/2
-|Storage:360904
+|Storage: 103000
 |Intake:6808
 
 

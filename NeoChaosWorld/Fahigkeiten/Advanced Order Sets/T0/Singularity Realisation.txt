@@ -9,14 +9,6 @@ Base: Energy compression (+):
 Compresses chaos into a -1nm of space. This causes the diffrence between concepts and reality to dissapear. Also makes its power diverge
 ----------------------
 
-Passive:
-________________________________________
-Inner Concentration (Epsilon|+):
-----------------------
-
-----------------------
-________________________________________
-
 Active:
 ________________________________________
 Evolved Singularity(alpha|+):
