@@ -1,0 +1,42 @@
+Name: String Manipulation
+
+Owner: Faedia Gonzales (+O-) | Type: Manipulation 3/4 Manifestation 1/4
+|Storage: 8000
+|Intake: 90
+
+Basic: String manipulation
+---------------------
+Can manipulate any string made either of plastik of horn.
+---------------------
+
+Notes:
+---------------------
+Likes money very much. The reason hes an ordidnant. Too bad he dies L.
+---------------------
+
+Passive:
+______________________________________________
+Mortal Stitches (Sigma|O):
+---------------------
+Stitches all wounds inflicted on the user back together.
+---------------------
+______________________________________________
+
+
+Active:
+_________________________________________________
+String creation(alpha|+):
+---------------------
+Creates strings out of energy. The user can control its properties like elasticity. The sturdyness is based on the amount of chaos used. These can be controlled using String manipulation. Can also manifest needles at the end of them.
+---------------------
+
+Stitches (Epsilon|+):
+---------------------
+Uses strings to connect two objects and fuse them. This can fully heal wounds as long as as the body parts still exist and are usable.
+---------------------
+
+String Formation (Epsilon|+):
+---------------------
+Can form any Object out of strings.
+---------------------
+_________________________________________________

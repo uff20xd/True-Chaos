@@ -1,0 +1,36 @@
+Name: 
+
+User: Ricarlo Nuvembarg  (+O-) | Type: Manifestation 1/2
+|Storage: 5m
+|Intake: 400 000
+
+Basic: Weapon creation
+---------------------
+Creates a weapon of the users chioce.
+---------------------
+
+Notes:
+---------------------
+People call him Rico. He is the second strongest member of the fused ones.
+---------------------
+
+Passive:
+______________________________________________
+Divine Evolution (alpha|O):
+---------------------
+When a weapon is broken all other weapons after can not be destroyed by the same source again. They also get a random attribute that counters the source. Can store up to 10 sources at a time.
+---------------------
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+Divine Smith (alpha|O):
+---------------------
+Creates a weapon with perfect soul ciculation and an additional attribute/ability of the users choice. Up to 4 can exist at a time.
+---------------------
+_________________________________________________
+
+

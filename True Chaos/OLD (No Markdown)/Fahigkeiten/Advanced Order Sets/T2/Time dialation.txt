@@ -1,0 +1,40 @@
+Name: Time Dialation
+
+User:  (+O-) | Type: 
+|Storage:
+|Intake:
+
+Basic: Speed
+---------------------
+Uses negative gravity to cause negative time dialation and speed the user up.
+---------------------
+
+Notes:
+---------------------
+---------------------
+
+Passive:
+______________________________________________
+Ringularity (alpha|O):
+---------------------
+Creates a ringularity around the user. The sheer gravity prevents touch
+---------------------
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+(alpha|O):
+---------------------
+
+---------------------
+
+_________________________________________________
+
+
+Velto Oktae: 
+---------------------
+
+---------------------

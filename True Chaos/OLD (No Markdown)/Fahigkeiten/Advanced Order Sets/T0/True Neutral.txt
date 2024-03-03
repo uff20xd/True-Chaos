@@ -1,0 +1,98 @@
+Name: True Neutral
+
+Owner: Zeero (+O-) | Type: Void 1/1
+|Output:12
+|Storage:5
+|Intake:1
+
+Notes:
+---------------------
+Has a limitation contract which seals all abilities except for Neutrality and Nullify. Its effects only come in after his death. This gives him four lives.
+
+Upon first death:
+ - Instant Refill of chaos and revival
+ - Unlocks all epsilon abilities
+
+Upon second death:
+ - Instant Revival and refill of chaos
+ - unlocks all abilities
+
+Upon third death:
+  - Instant revival and refill of chaos
+  - The pact ends and can be reactivated after 1 year.
+---------------------
+
+Passive:
+______________________________________________
+Neutrality (alpha|O):
+----------------------
+The users body gets reset upon change to a neutral Point.
+Also resets your Energy storage to full.
+----------------------
+
+Zero Space (epsilon|O):
+----------------------
+Creates Void around the user which prevents all contact with him.
+----------------------
+
+Absolute Zero (sigma|O):
+[Makes all functions cost no chaos to manifest.]
+----------------------
+[Negates all concepts and strips anything of their properties if it interacts with the user in any direct or indirect way (and anything in the range around the user body, which is decided by the user) when not permitted by the user himself.]
+----------------------
+_________________________________________________
+
+
+Active:
+_________________________________________________
+Nullifying T1 (alpha|O):
+----------------------
+Can remove the Energy of any Objekt in Range(10m) around you.(Line of sight is needed.)
+----------------------
+
+Negation T2 (Sigma|O):
+----------------------
+Can now stop spacetime for up to 10 sec.
+Also works on the natural laws (gravity, Electromagnetic, Nuclear etc) in the same timeframe but only in a limited range(5m) or on an objekt(los needed).
+----------------------
+
+Null (Gamma|O):
+----------------------
+Can negate and erase Matter and energy.
+----------------------
+
+Point Zero Base (alpha|O):
+---------------------
+[Creates an infinitly small point containing nothing.]
+
+|Point Zero-Position Reset (alpha|O){dependant on "Neutrality"}:
+[Uses Neutral Energy to switch places with the point.] 
+{Burns out dependant ability for .2 sec}
+
+|Point Zero-extended Space (Epsilon|+){dependant on "Zero Space"}:
+[Uses positive chaos to make the point larger bending space aroung it, pushing anything away, ignoring the laws of physics and shattering anything around it, even elastic surfaceses.]
+{Burns out dependant abilty for 1.5 sec}
+
+||Function Reversal-Twisted Space:
+[twist Space inwards creating a force similar to gravity plus a spin around the point]
+
+|Point Zero-Limit Null (Sigma|-){dependant on "Absolute Zero"}:
+[Uses negative energy to strengthen the void. Creates radius around the Point erasing everything within it and striping it of their past, present, future and Interaction with Reality.]
+{Burns out depandant Ability for 2 sec}
+
+||Function Reversal-Limit Post Divergence:
+[The Space around the Point contains more kinetic energy faceing away from the point the closer to it approaching infinity.]
+---------------------
+
+|Function Neutralisation - Usable
+_________________________________________________
+
+Sign of the Fool, Velto Oktae: The Antipotence
+---------------------
+Removes Logic from Reality making the only definite thing inside the Oktae the user winning. Both causality, time and are no longer linear and can be reconstruced in any way the user wants. Also negates all innate functions.
+---------------------
+
+
+
+
+

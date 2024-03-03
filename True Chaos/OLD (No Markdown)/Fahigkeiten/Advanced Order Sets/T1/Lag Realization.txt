@@ -1,0 +1,60 @@
+Name: Lag Realization
+
+Owner: Walter Fundaine (-) | Type: X
+|Storage: 9000
+|Intake: 240
+
+Basic: Delay
+---------------------
+The user can move while delaying the actual movement then making the movement instant.
+---------------------
+
+Passive:
+______________________________________________
+Applied Lag (alpha|-): 
+---------------------
+Damage that would be inflicted on the user is delayed and allows the user to dodge the damage after its been done.
+--------------------- 
+
+Hitbox Removal (sigma|-):
+--------------------- 
+Uses lag to remove your hitbox completly making the user invincible to physical damage.
+--------------------- 
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+Kinetic stack (alpha|+):
+---------------------
+Condenses the energy of an entire movement to just the hit itself.
+---------------------
+
+Chronical stack (epsilon|+):
+--------------------- 
+An extension of kinetic stack, which also stacks time itself making the user able to charge the attack while doing other things. (Overcharging can cause damage to the user and will reset the charge.
+--------------------- 
+
+Reality Stack (Sigma|+):
+--------------------- 
+Stacks alternate timeline of yourself created through lag also applying the previous stack functions.
+--------------------- 
+
+Defense overwrite (Sigma|+):
+--------------------- 
+Uses lag to ignore the hardness of an object.
+--------------------- 
+
+Crash (Gamma|+):
+--------------------- 
+Applies Lag to Reality itself stopping Reality from going forward.
+When applied to a single object he is removed from Reality.
+_________________________________________________
+
+
+Velto Oktae: The all Lag
+---------------------
+Inside the Veltop Crash is applied on every object excpet the user, while also applying general crash.
+---------------------

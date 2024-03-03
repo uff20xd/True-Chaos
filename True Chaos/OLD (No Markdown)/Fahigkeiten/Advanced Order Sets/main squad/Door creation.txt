@@ -1,0 +1,41 @@
+Name: Door creation 
+
+User: Lew Hewitt (+O-) | Type: Manifestation 2/3 Strenghening 1/3
+|Storage:
+|Intake:
+
+Basic: Door creation 
+---------------------
+Creates a door in a range of 10m around the user.
+---------------------
+
+Notes:
+---------------------
+Really not much of a fighter. He likes to draw and chill a lot. He wants to become an ordinant so he can then become a choascientist.
+---------------------
+
+Passive:
+______________________________________________
+ (alpha|O):
+---------------------
+
+---------------------
+______________________________________________
+
+
+
+
+Active:
+_________________________________________________
+(alpha|O):
+---------------------
+
+---------------------
+
+_________________________________________________
+
+
+Velto Oktae: 
+---------------------
+
+---------------------

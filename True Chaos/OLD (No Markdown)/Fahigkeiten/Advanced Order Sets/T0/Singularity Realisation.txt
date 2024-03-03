@@ -1,0 +1,104 @@
+Name: Singularity Realisation
+
+Owner:  Novim(+) | Type: Control 1/2 Exertion 1/1
+|Storage:103892
+|Intake:2597
+
+Base: Energy compression (+):
+----------------------
+Compresses chaos into a -1nm of space. This causes the diffrence between concepts and reality to dissapear. Also makes its power diverge
+----------------------
+
+Active:
+________________________________________
+Evolved Singularity(alpha|+):
+----------------------
+|Blue(alpha):
+|-----------
+|Strenghens the singularity makeing it visible with the naked eye and makes the scale Singularity-power(p)=((Energy used)*(1+p/10))/(1-p/100) max(100)
+|Glows Blue.
+|-----------
+
+|Green(alpha)
+|-----------
+|Heals the target.
+|Glows Green.
+|-----------
+
+|Yellow(Epsilon)
+|-----------
+|Emites a shockwave which slows anything it hits.
+|Also stops the usage of SCS depending on the skill of both user and hit.
+|-----------
+
+|Orange(Epsilon)
+|-----------
+|Creates matter temporarely. Attributes can be configured as wanted (some require multiple singularitys).
+|costs less the higher refinement.
+|-----------
+
+|Red(Sigma)
+|-----------
+|Makes anything it hits instantly get turned into chaos. This also instantly destroys any soul it hits.
+|-----------
+----------------------
+
+Evolved Singularity (Epsilon|)
+Extension-Singularity Expansion:
+----------------------
+|Blue(alpha):
+|-----------
+|You know the Position of everything in the abstracio. Also gives gravity control to some degree.
+|Glows Blue.
+|-----------
+
+|Green(alpha)
+|-----------
+|Heals the User constantly.
+|The User cannot die to physical or soul attacks
+|-----------
+
+|Yellow(Epsilon)
+|-----------
+|Pauses Reality.
+|-----------
+
+|Orange(Epsilon)
+|-----------
+|Creates matter temporarely anywhere in the Abstricion
+|costs less the higher refinement.
+|-----------
+
+|Red(Sigma)
+|-----------
+|Applies red inside the entire abstricion.
+|-----------
+----------------------
+
+Full Spectrum(Sigma):
+----------------------
+|Violett(Sigma):
+|-----------
+|Will remove properties of ones choice from anything it hits.
+|-----------
+
+|White(Gamma):
+|-----------
+|Absorbs the matter around it to then mimic the effect of any another colour or multiple at once in a higher state.
+|-----------
+----------------------
+
+
+Velto Oktae:The Colours of Delight
+----------------------
+Upon creation can create any souroundings the user decides. 
+
+Stage 1: loss of meaning
+The User can use the colour in his souroundings to use attacks of the same colour (Black becomes colourless instantly). The more colour used the stronger the attack. When all the colour is used up stage 2 starts.
+
+Stage 2: Blank Page
+Now everything becomes colourless and contrasts dissapear aswell. This includes the opponent outlines directly hurting his soul. Now the User can draw anything in this blank space and it will become reality. Then th thing thats drawn can be filled colour to give it meaning and effect.
+
+Stage 3: The Collapse
+The things drawn by you dissapear and the velto oktae dissapears aswell. Then the user expiriences heavy recoil based on how much colour given to drawn objects.
+----------------------

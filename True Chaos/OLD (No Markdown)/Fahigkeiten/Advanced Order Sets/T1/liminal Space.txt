@@ -1,0 +1,55 @@
+Name: Liminal Space
+
+Owner: Narotemos (+) | Type: Control 3/4 Manifestation 1/4
+|Storage:50 013
+|Intake: 623
+
+Base: New space (+)
+---------------------
+Temporarily creates space between two objekt, of which one is either yourself or an objekt you touch.
+The second objekt only needs to be within line of sight.
+---------------------
+
+
+Passive:
+_______________________________________________
+Full Emptiness (Epsilon|O):
+---------------------
+{Only works during Dim liminal}
+All damage inflicted upon you gets transfered to the terrain in the Wio Liminal instead.
+---------------------
+_______________________________________________
+
+Active:
+_______________________________________________
+Dim liminal (Alpha|+)
+---------------------
+Creates an advanced dimirror in which the user
+---------------------
+
+Position manipulation (Epsilon|O):
+---------------------
+By manipulaing the distance from you to all other objekts you change you position in space.
+---------------------
+
+Liminal ankers (Epsilon|+)
+---------------------
+Creates an anker in space max(4) in range(10m). The user can move the ankers in space and use them as relative points from which distance can be manipulated.
+---------------------
+
+liminal singularity (Sigma|+)
+---------------------
+Changes the distance between everything to zero, collapsing the dimension into itself erasing all within.
+---------------------
+_______________________________________________
+
+Sign of the Basilisk, Velto Oktae: Liminal souls
+---------------------
+Forces the state of brithintality to all souls within the veltop.
+---------------------
+
+
+
+
+
+
