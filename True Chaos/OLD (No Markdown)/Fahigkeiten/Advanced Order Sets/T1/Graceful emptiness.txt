@@ -32,7 +32,7 @@ Hands of Greed (alpha|O):
 Can absorb any soul he touches if it is not reinforced. Makes all souls only half alive
 ---------------------
 
-Burn up(alpha|O):
+Burn up (alpha|O):
 ---------------------
 Completly uses up a soul turning it into energy to be used in any way. Can also use the respective innate function one time.
 ---------------------
