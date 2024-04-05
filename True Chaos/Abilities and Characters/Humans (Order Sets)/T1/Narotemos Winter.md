@@ -14,7 +14,7 @@ ___
 ### Hashtags (Ignore)
 #Manipulation 
 #Professor
-#T1
+#T1/10
 #WEOU
 ## Plot
 ### Personality

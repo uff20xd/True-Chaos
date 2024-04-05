@@ -1,4 +1,4 @@
-**Orderset: Prima Nova  | Type: Exertion**
+**Orderset: Counter Force  | Type: Imaginative Exertion**
 **Innate Chaos:  "Number"**
 
 # Notes
@@ -12,8 +12,6 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-#Exertion 
-#T2/Rank3
 
 
 ## Plot
@@ -60,7 +58,7 @@ ___
 ___
 
 # Soul Inversion
-## Dimitra: Sign of the Basilisk - ""
+##  :Sign of the "" - ""
 ___
 
 ___

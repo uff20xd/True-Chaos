@@ -13,7 +13,7 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #Imaginative-Type 
-#T1 
+#T1/12
 
 ## Plot
 ### Personality

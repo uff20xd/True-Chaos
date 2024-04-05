@@ -14,8 +14,10 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0 
+#T1/7
 #Grey
 #Manifestation 
+#T1/7
 
 ### Personality
 ___

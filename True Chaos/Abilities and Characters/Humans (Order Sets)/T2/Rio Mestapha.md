@@ -1,4 +1,4 @@
-**Orderset: Prima Nova  | Type: Exertion**
+**Orderset: Multiplication  | Type: Manifestation Modification**
 **Innate Chaos:  "Number"**
 
 # Notes
@@ -12,8 +12,10 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-#Exertion 
-#T2/Rank3
+#T2/Rank1
+#Modification 
+#Manifestation
+#The-Fools 
 
 
 ## Plot
@@ -46,21 +48,19 @@ ___
 ___
 
 
-# Passive Abilities
-## Ability (Alpha)
-___
-
-___
-
-
 # Active Abilities
-## Ability (Base)
+## Multiplication  (Base)
 ___
-
+Creates a screen which quadruples all energy or chaos that passes through it.
+Multiple can be spawned but they each require an exponential amount of chaos.
+___
+### Reversal - Division
+____
+Creates a screen which halves all energy or chaos passing through.
 ___
 
 # Soul Inversion
-## Dimitra: Sign of the Basilisk - ""
+## Velto Oktae : Sign of the "Basilisk" - Multiplicative space
 ___
-
+Multiplies all the users attacks inside the space indefinitly.
 ___

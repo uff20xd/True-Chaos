@@ -13,6 +13,7 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0 
+#T1/4
 #Grey 
 #Modification
 ## Plot
@@ -58,5 +59,5 @@ ___
 # Soul Inversion
 ## Velto Oktae: Sign of the phoenix - Post Human
 ___
-Chaos reserves become infinite and everyone inside is perpetually guaranteed to be hit by the chaos ignoring all in between.
+Chaos reserves become infinite and chaos can be generated anywhere inside the Oktae.
 ___
