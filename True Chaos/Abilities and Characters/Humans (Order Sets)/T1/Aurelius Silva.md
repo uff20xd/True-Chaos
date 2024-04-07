@@ -1,5 +1,5 @@
-**Orderset: Reassembly  | Type: Modification 
-Innate Chaos: 130 000**
+**Orderset: Midas Curse  | Type: Manipulation Modification**
+**Innate Chaos:  40 000**
 
 # Notes
 ## Read this first!!!
@@ -45,16 +45,21 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Mould of Gold (Beta)
 ___
-
+Any damage is automatically repaired by turning sorounding matter to old and moulding it into his body.
 ___
 
 
 # Active Abilities
-## Ability (Base)
+## Midas Will (Base)
+___
+He can control all Gold
 ___
 
+## Midas Curse (Alpha)
+___
+Can turn objects he touches into gold. Can be defended by objects within a soul cycle.
 ___
 
 # Soul Inversion

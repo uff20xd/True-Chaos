@@ -8,7 +8,20 @@ ___
 # Mechanics
 
 
+
 # Basics
+## Soul Cycling
+___
+Soul Cycling is the base to chaos combat. Its the passive ay chaos is pumped through your entire body, amplifying its functions. 
+This should be able to be done passively after about 4 - 20 years of training.
+This also passively defends your body from changing states though modification abilities like [[Aurelius Silva#Midas Curse (Alpha)]] or
+___
+### Cycle Expansion 
+___
+If the combatant wants to use weapons they use cycle expansion to also take the cycle through the weapon strengthening it.
+This will be very inefficient at first but will become better the longer the sword is inside the cycle since the matter needs to adapt first.
+This makes the event of having ones sword put out of commission one of the worst things that could happen because it takes about 2 - 3 months to set up a new sword.
+___
 
 
 # Techniques

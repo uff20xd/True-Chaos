@@ -1,5 +1,5 @@
-**Orderset: "name"  | Type: "type of Orderset"**
-**Innate Chaos:  "Number"**
+**Orderset: "name"  | Type: "type of Orderset"
+Innate Chaos:  "Number"
 
 # Notes
 ## Read this first!!!
