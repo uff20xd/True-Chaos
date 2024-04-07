@@ -61,7 +61,7 @@ Can change the properties, natural laws and their magnitude of objects he touche
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the Fool - boundless unreality
+## Velto Oktae: Sign of the Fool - Boundless Unreality
 ___
-
+The user can change properties of non-physical concepts like spacetime or causality including specification.
 ___

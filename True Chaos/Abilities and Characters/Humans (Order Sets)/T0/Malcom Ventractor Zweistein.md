@@ -50,12 +50,15 @@ ___
 
 
 # Passive Abilities
-## Orderful (Base)
+## Innate Perfection (Beta)
 ___
-Removes any fall off of chaos manipulation outside your soul.
+The Users body is covered in one singularity which will exhibit infinite force upon touch
 ___
 
-
+## Innate Green
+___
+Automatically creates green singularities which are then stored within the soul.
+___
 # Active Abilities
 ## Singularity Realisation
 ___

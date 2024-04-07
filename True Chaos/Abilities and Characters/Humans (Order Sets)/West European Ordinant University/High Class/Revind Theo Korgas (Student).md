@@ -62,8 +62,3 @@ ___
 ___
 Can rewind up to 60 seconds and then it takes that amount of time to regenerate the time. Can be stacked but thje stacke one scan at no point go over 60 seconds.
 ___
-# Soul Inversion
-## Sign of the "" - ""
-___
-
-___

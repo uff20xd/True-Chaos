@@ -58,8 +58,3 @@ ___
 
 ___
 
-# Soul Inversion
-##  :Sign of the "" - ""
-___
-
-___

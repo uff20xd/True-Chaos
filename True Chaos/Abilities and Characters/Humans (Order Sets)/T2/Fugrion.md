@@ -59,8 +59,3 @@ ___
 
 ___
 
-# Soul Inversion
-## Dimitra: Sign of the Basilisk - ""
-___
-
-___

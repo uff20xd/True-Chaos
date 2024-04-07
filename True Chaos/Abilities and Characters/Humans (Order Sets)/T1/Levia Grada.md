@@ -1,4 +1,4 @@
-**Orderset: Reassembly  | Type: Modification 
+ **Orderset: Reassembly  | Type: Modification 
 Innate Chaos: 130 000**
 
 # Notes
@@ -45,20 +45,20 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Reassembly (Base)
 ___
-
+Can reconfigure her body without dying being able to reattach limbs no problem.
 ___
 
 
 # Active Abilities
-## Ability (Base)
+## Alchemy (Epsilon)
 ___
-
+Can reconfigure things the user touches on a sub atomic level.
 ___
 
 # Soul Inversion
-##  :Sign of the "" - ""
+## Velto Oktae: Sign of the Basilisk - Master of Alchemy
 ___
-
+No longer requires touch.
 ___

@@ -89,8 +89,3 @@ ___
 Can ignore aspects by avoiding them with lag.  Remove factors like durability an anything in its way.
 ___
 
-# Soul Inversion
-## Velto Oktae: Sign of the "" - ""
-___
-
-___

@@ -60,7 +60,7 @@ Creates a screen which halves all energy or chaos passing through.
 ___
 
 # Soul Inversion
-## Velto Oktae : Sign of the "Basilisk" - Multiplicative space
+## Velto Oktae: Sign of the "Basilisk" - Multiplicative space
 ___
-Multiplies all the users attacks inside the space indefinitly.
+Can create an infinite amount of these windows which can only be used by the user and people he chooses. Can also only be seen by those chosen people.
 ___

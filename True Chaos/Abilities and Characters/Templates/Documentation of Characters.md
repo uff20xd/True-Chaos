@@ -58,7 +58,7 @@ ___
 ___
 
 # Soul Inversion
-##  :Sign of the "" - ""
+##  Velto Oktae: Sign of the "" - ""
 ___
 
 ___

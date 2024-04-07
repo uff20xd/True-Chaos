@@ -63,7 +63,8 @@ Can turn objects he touches into gold. Can be defended by objects within a soul 
 ___
 
 # Soul Inversion
-##  :Sign of the "" - ""
+## Velto Oktae: Sign of the Pheonix - Midas Greed
 ___
-
+Anything that touches Gold also turns to gold.
+Starts absorbing all gold in the area until it becomes strange gold largely amplifying the user and turning even chaos into gold.
 ___
