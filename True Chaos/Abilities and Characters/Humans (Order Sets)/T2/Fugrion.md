@@ -1,5 +1,14 @@
+---
+aliases:
+  - prima nova
+tags:
+  - T2/Rank3
+  - Exertion
+  - Professor
+  - WEOU
+---
 **Orderset: Prima Nova  | Type: Exertion**
-**Innate Chaos:  "Number"**
+**Innate Chaos:  100 000**
 
 # Notes
 ## Read this first!!!
@@ -13,8 +22,8 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #Exertion 
-#T2/Rank3
-
+#T2
+Rank 3
 
 ## Plot
 ### Personality

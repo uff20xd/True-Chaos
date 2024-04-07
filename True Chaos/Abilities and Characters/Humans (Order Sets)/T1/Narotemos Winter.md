@@ -1,5 +1,15 @@
-**Orderset: Liminal Space  | Type: Manipulation**
-**Innate Chaos:  "Number"**
+---
+aliases:
+  - liminal space
+  - distance manipulation
+tags:
+  - Manipulation
+  - Professor
+  - T1/Rank11
+  - WEOU
+---
+#**Orderset: Liminal Space  | Type: Manipulation**
+**Innate Chaos:  20 000**
 
 # Notes
 ## Read this first!!!
@@ -14,8 +24,9 @@ ___
 ### Hashtags (Ignore)
 #Manipulation 
 #Professor
-#T1/10
+#T1
 #WEOU
+Rank 11
 ## Plot
 ### Personality
 ___
@@ -60,7 +71,7 @@ ___
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the "" - ""
+## Incomplete Velto Oktae: Sign of the "" - ""
 ___
 
 ___

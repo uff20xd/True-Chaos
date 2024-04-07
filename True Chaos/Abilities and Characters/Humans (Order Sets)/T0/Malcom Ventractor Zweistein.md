@@ -1,4 +1,17 @@
-**Orderset: Singularity Realisation  | Type: Manifestation, Exertion ,Manipulation, Imaginative
+---
+aliases:
+  - singularity realisation
+tags:
+  - T0
+  - T1/Rank2
+  - Grey
+  - Manifestation
+  - Manipulation
+  - Exertion
+  - Imaginative-Type
+  - Modification
+---
+**Orderset: Singularity Realisation  | Type: Manifestation Exertion Manipulation Imaginative Modification
 Innate Chaos:  200 000
 
 # Notes
@@ -13,12 +26,13 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0
-#T1/3
+#T1
 #Grey
 #Manifestation
 #Manipulation 
 #Exertion 
 #Imaginative-Type
+Rank 2
 ## Plot
 ### Personality
 ___
@@ -94,7 +108,7 @@ ___
 Applies the effects of Singularities in a area.
 ___
 # Soul Inversion
-## Velto Oktae: Sign of the Basilisk - Colours of Delight
+## TrueVelto Oktae: Sign of the Basilisk - Colours of Delight
 ___
 It steals all colours leaving only lines to decide if you still exist. The user can now destroy these lines striping the thing it hit from everything that makes it real removing it on a conceptual level. 
 Everything has become unstable and just a touch from the user can collapse it all.

@@ -1,5 +1,15 @@
+---
+aliases:
+  - true cold
+  - indian guy
+tags:
+  - T0
+  - T1/Rank3
+  - Grey
+  - Manipulation
+---
 **Orderset: True Cold  | Type: Manipulation**
-**Innate Chaos:**
+**Innate Chaos: 70 000**
 
 # Notes:
 
@@ -14,9 +24,10 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0 
-#T1/5
+#T1
 #Grey 
 #Manipulation 
+Rank 3
 ## Plot
 ### Personality
 ___
@@ -68,7 +79,7 @@ Constructs matter out of pure Cold.
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the Phoenix - Negative Endothermic identity
+## True Velto Oktae: Sign of the Phoenix - Negative Endothermic identity
 ___
 Applies the same effect as "Infinite Cold" but in range an unlimited range. In a range of 10 m all energy is removed and the temperature is set to -1Kelvin surpassing the Concept of cold as in the lack of energy. This freezes concepts themselves making the user invincible during its duration. Can now condense cold and control it in its entire range. 
 ___

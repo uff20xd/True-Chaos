@@ -1,5 +1,13 @@
-**Orderset: The Motto of me  | Type: Manipulation**
-**Innate Chaos:  12 000**
+---
+aliases:
+  - the motto of me
+tags:
+  - Student
+  - Manipulation
+  - Imaginative-Type
+---
+**Orderset: The Motto of me  | Type: Manipulation Imaginative
+Innate Chaos:  12 000**
 
 # Notes
 ## Read this first!!!

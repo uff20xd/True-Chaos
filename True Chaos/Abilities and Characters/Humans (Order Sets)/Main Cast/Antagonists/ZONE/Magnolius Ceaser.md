@@ -1,5 +1,16 @@
+---
+aliases:
+  - eternal spark
+  - electricity creation
+tags:
+  - Antagonist
+  - Antagonists
+  - ZONE
+  - Exertion
+  - Hybrid
+---
 **Orderset:  Eternal Spark | Type: Exertion**
-**Innate Chaos:  "Number"**
+**Innate Chaos:  10 000 000**
 
 # Notes
 ## Read this first!!!

@@ -1,5 +1,17 @@
+---
+aliases:
+  - Hurensohn
+  - fake aizen
+  - emo
+tags:
+  - Antagonist
+  - Antagonists
+  - PrimaryAntagonist
+  - Imaginative-Type
+  - ZONE
+---
 **Orderset:  Graceful Emptiness | Type: Imaginative
-Innate Chaos:  40 000"**
+Innate Chaos:  60 000"**
 # Notes
 ## Read this first!!!
 ___
@@ -17,7 +29,7 @@ ___
 #Imaginative-Type
 #ZONE
 #T1
-
+Rank 8
 
 ## Plot
 ### Personality

@@ -1,5 +1,17 @@
+---
+aliases:
+  - seasons
+  - seasons of power
+  - seasons of life
+tags:
+  - "#Exertion"
+  - Manipulation
+  - The-Fools
+  - Grey
+  - T1/Rank16
+---
 **Orderset: Seasons of Power  | Type: Exertion Manipulation**
-**Innate Chaos:  "Number"**
+**Innate Chaos:  70 000"**
 
 # Notes
 ## Read this first!!!
@@ -15,9 +27,9 @@ ___
 #Exertion 
 #Manipulation 
 #The-Fools
-#T1/11
+#T1
 #Grey 
-
+Rank 15
 ## Plot
 ### Personality
 ___

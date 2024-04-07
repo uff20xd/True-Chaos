@@ -1,5 +1,17 @@
+---
+aliases:
+  - Terzif
+  - main character
+  - impact simulation
+tags:
+  - Protagonist
+  - Protagonists
+  - PrimaryProtagonist
+  - Student
+  - Exertion
+---
 **Orderset: Impact Simulation | Type: Exertion
-Innate Chaos:  200 000**
+Innate Chaos: 100 000**
 
 # Notes
 ## Read this first!!!
@@ -64,7 +76,7 @@ ___
 Can create an imaginary cause with an actual effect on any object the user senses.
 ___
 # Soul Inversion
-## Velto Oktae: Sign of the Basilisk - Death Simulation
+## Incomplete Velto Oktae: Sign of the Basilisk - Death Simulation
 ___
 Forces Death upon the opposing person infinitely and only ends when the opponent complies with death.
 ___

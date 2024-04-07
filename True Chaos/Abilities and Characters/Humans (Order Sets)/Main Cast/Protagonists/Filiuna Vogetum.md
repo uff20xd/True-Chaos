@@ -1,5 +1,15 @@
+---
+aliases:
+  - string manipulation
+tags:
+  - Protagonist
+  - Protagonists
+  - "#Manipulation"
+  - Student
+  - Humonculus
+---
 **Orderset: String Manipulation | Type: Manipulation
-Innate Chaos:  39 000
+Innate Chaos:  15 000
 
 # Notes
 ## Read this first!!!

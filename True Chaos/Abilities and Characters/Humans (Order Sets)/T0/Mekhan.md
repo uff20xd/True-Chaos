@@ -1,5 +1,13 @@
+---
+aliases: 
+tags:
+  - T0
+  - T1/Rank6
+  - Grey
+  - Manifestation
+---
 **Orderset: Gate of Chaos | Type: Manifestation**
-**Innate Chaos:  "Number"**
+**Innate Chaos:  100 000**
 
 # Notes
 ## Plot
@@ -14,11 +22,10 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0 
-#T1/7
+#T1
 #Grey
 #Manifestation 
-#T1/7
-
+Rank 6
 ### Personality
 ___
 Very serious while not being that smart. Has a distinct distaste against Zeero since they are near opposites.
@@ -94,7 +101,7 @@ Slashes anything near you in half, ad infinitum .
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the Pheonix - Ring 1: Clover
+## TrueVelto Oktae: Sign of the Pheonix - Ring 1: Clover
 ___
 A rapier that manipulates probability.
 ___

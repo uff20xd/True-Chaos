@@ -1,5 +1,15 @@
+---
+aliases:
+  - consequence manipulation
+  - the judge
+tags:
+  - T0
+  - T1/Rank5
+  - Grey
+  - Void
+---
 **Orderset: Consequence Manipulation  | Type: Void**
-**Innate Chaos:  20000**
+**Innate Chaos:  20 000**
 
 # Notes
 ## Plot
@@ -14,10 +24,10 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0 
-#T1/6
+#T1
 #Grey 
 #Void 
-
+Rank 5
 ### Personality
 ___
 Hates rules and loves breaking them. Very morally ambiguous and much of a hypocrite.
@@ -61,7 +71,7 @@ You can change a consequence to something of equal value.
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the Basilisk - last consequence 
+## True Velto Oktae: Sign of the Basilisk - last consequence 
 ___
 Removes the consequence equality requirement.
 ___

@@ -1,5 +1,15 @@
-**Orderset: All Power  | Type: Modification
-Innate Chaos:  30 Billion
+---
+aliases:
+  - all power
+  - marx
+  - too much chaos
+tags:
+  - Modification
+  - T1/Rank4
+  - T0
+---
+**Orderset: All Power  | Type: Modification Exertion
+Innate Chaos:  40 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 
 
 # Notes
 ## Read this first!!!
@@ -13,9 +23,10 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0 
-#T1/4
+#T1
 #Grey 
 #Modification
+Rank 4
 ## Plot
 ### Personality
 ___
@@ -57,7 +68,7 @@ Gives the user an exponential increase in chaos over time in exchange for making
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the phoenix - Post Human
+## True Velto Oktae: Sign of the phoenix - Post Human
 ___
 Chaos reserves become infinite and chaos can be generated anywhere inside the Oktae.
 ___

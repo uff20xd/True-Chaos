@@ -1,5 +1,14 @@
+---
+aliases:
+  - lag realisation
+tags:
+  - Void
+  - The-Fools
+  - Grey
+  - T1/Rank12
+---
 **Orderset:  Lag Realisation | Type: Void**
-**Innate Chaos:  30 000**
+**Innate Chaos:  1 200**
 
 # Notes
 ## Read this first!!!
@@ -15,9 +24,10 @@ ___
 #Void 
 #The-Fools
 #Grey 
-#T1/9
+#T1
 #Professor
 #WEOU
+Rank 12
 ## Plot
 ### Personality
 ___

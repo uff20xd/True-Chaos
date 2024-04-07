@@ -1,3 +1,13 @@
+---
+aliases:
+  - midas curse
+  - gold manipulation
+  - midas
+tags:
+  - Manipulation
+  - Modification
+  - T1/Rank10
+---
 **Orderset: Midas Curse  | Type: Manipulation Modification**
 **Innate Chaos:  40 000**
 
@@ -12,7 +22,10 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-
+#Manipulation 
+#Modification 
+#T1 
+Rank 10
 
 ## Plot
 ### Personality

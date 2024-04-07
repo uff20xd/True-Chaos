@@ -1,3 +1,15 @@
+---
+aliases:
+  - the mathematician
+  - mathematician
+  - unreality
+tags:
+  - The-Fools
+  - T1/Rank7
+  - Void
+  - Unfinished
+  - Grey
+---
 **Orderset: Unreality | Type: Void**
 **Innate Chaos:  2 000**
 
@@ -13,11 +25,11 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #The-Fools
-#T1/8
+#T1
 #Void 
 #Grey
 #Unfinished 
-
+Rank 7
 ## Plot
 ### Personality
 ___

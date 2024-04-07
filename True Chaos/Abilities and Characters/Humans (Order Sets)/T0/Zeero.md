@@ -1,5 +1,17 @@
+---
+aliases:
+  - true neutral
+  - zero
+tags:
+  - T0
+  - T1/Rank1
+  - Grey
+  - The-Fools
+  - Void
+  - non-chaotic-soul/enigma
+---
 **Orderset: True Neutral (+O-) | Type: Void**
-**Innate chaos: 2**
+**Innate chaos: 1**
 
 # Notes:
 ## Plot
@@ -14,10 +26,11 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #T0 
-#T1/2
+#T1
 #Grey 
 #The-Fools
 #Void
+Rank 1
 ### Personality
 ___
 
@@ -113,7 +126,7 @@ _________________________________________________
 
 
 # Soul Inversion
-## Velto Oktae: Sign of the Fool - The Antipotence
+## True Velto Oktae: Sign of the Fool - True Enigma
 ___
-Removes Logic from Reality making the only definite thing inside the Oktae the user winning. Both causality, time and are no longer linear and can be reconstruced in any way the user wants. Also negates all innate functions.
+Transform Zeeros soul into an enigma.
 ___

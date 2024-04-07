@@ -1,5 +1,15 @@
+---
+aliases:
+  - schnippo
+  - schnipo
+tags:
+  - Protagonist
+  - Protagonists
+  - Exertion
+  - Student
+---
 **User: Cobrim Legistik  | Type: Exertion
-Innate Chaos:  "Number"**
+Innate Chaos:  140 000**
 
 # Notes
 ## Read this first!!!

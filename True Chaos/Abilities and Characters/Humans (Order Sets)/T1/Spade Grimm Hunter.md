@@ -1,5 +1,12 @@
+---
+aliases:
+  - hand of fate
+tags:
+  - Imaginative-Type
+  - T1/Rank13
+---
 **Orderset: Hand of Fate  | Type: Imaginative**
-**Innate Chaos:  30000**
+**Innate Chaos:  50 000**
 
 # Notes
 ## Read this first!!!
@@ -13,8 +20,8 @@ Gamma functions you aint seeing if you arent in the top 50 at least. 200 years a
 ___
 ### Hashtags (Ignore)
 #Imaginative-Type 
-#T1/12
-
+#T1
+Rank 13
 ## Plot
 ### Personality
 ___

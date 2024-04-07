@@ -1,3 +1,16 @@
+---
+aliases:
+  - monarchy
+  - anti paak
+  - counter paak
+tags:
+  - Antagonist
+  - Antagonists
+  - Modification
+  - Humonculus
+  - Hybrid
+  - ZONE
+---
 **Orderset: Monarchy  | Type: Modification
 **Innate Chaos:  7 000 000**
 

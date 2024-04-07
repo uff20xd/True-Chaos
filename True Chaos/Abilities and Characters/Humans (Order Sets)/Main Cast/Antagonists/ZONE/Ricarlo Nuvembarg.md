@@ -1,3 +1,14 @@
+---
+aliases:
+  - swordsmith
+tags:
+  - Antagonist
+  - Antagonists
+  - ZONE
+  - Manifestation
+  - Hybrid
+  - Humonculus
+---
 **Orderset: Divine Swordsmith  | Type: Manifestation**
 **Innate Chaos:  500 000**
 
@@ -16,7 +27,6 @@ ___
 #Antagonists 
 #ZONE 
 #Manifestation 
-#Unfinished
 ## Plot
 ### Personality
 ___

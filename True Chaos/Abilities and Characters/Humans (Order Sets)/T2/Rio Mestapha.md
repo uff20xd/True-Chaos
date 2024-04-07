@@ -1,5 +1,16 @@
+---
+aliases:
+  - Multiplication
+tags:
+  - Modification
+  - Manifestation
+  - The-Fools
+  - T2/Rank1
+  - Professor
+  - WEOU
+---
 **Orderset: Multiplication  | Type: Manifestation Modification**
-**Innate Chaos:  "Number"**
+**Innate Chaos:  45 000**
 
 # Notes
 ## Read this first!!!
@@ -12,11 +23,11 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-#T2/Rank1
+#T2
 #Modification 
 #Manifestation
 #The-Fools 
-
+Rank 1
 
 ## Plot
 ### Personality
@@ -60,7 +71,7 @@ Creates a screen which halves all energy or chaos passing through.
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the "Basilisk" - Multiplicative space
+## Incomplete Velto Oktae: Sign of the "Basilisk" - Multiplicative space
 ___
 Can create an infinite amount of these windows which can only be used by the user and people he chooses. Can also only be seen by those chosen people.
 ___

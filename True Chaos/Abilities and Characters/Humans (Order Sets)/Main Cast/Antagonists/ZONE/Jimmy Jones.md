@@ -1,5 +1,19 @@
+---
+aliases:
+  - counter force
+tags:
+  - Antagonist
+  - Antagonists
+  - Exertion
+  - Imaginative-Type
+  - ZONE
+  - Humonculus
+  - Hybrid
+  - Professor
+  - WEOU
+---
 **Orderset: Counter Force  | Type: Imaginative Exertion**
-**Innate Chaos:  "Number"**
+**Innate Chaos:  3 000 000**
 
 # Notes
 ## Read this first!!!

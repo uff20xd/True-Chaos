@@ -1,5 +1,15 @@
+---
+aliases:
+  - doors
+  - dimensional doors
+tags:
+  - Protagonist
+  - Protagonists
+  - Manifestation
+  - Student
+---
 **Orderset: Dimensional Doors  | Type: Manifestation**
-**Innate Chaos:  14 000**
+**Innate Chaos:  29 000**
 
 # Notes
 ## Read this first!!!

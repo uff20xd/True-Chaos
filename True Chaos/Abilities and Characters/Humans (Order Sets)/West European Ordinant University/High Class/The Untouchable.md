@@ -1,3 +1,10 @@
+---
+aliases: 
+tags:
+  - Student
+  - Modification
+  - Unfinished
+---
 **Orderset: The Untouchable | Type: Modification**
 **Innate Chaos:  "Number"**
 

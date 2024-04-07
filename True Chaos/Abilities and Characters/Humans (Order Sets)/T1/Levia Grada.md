@@ -1,5 +1,11 @@
- **Orderset: Reassembly  | Type: Modification 
-Innate Chaos: 130 000**
+---
+aliases: 
+tags:
+  - Modification
+  - T1/Rank9
+---
+**Orderset: Reassembly  | Type: Modification 
+Innate Chaos: 30 000**
 
 # Notes
 ## Read this first!!!
@@ -12,7 +18,9 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-
+#Modification 
+#T1
+Rank 9
 
 ## Plot
 ### Personality
@@ -58,7 +66,7 @@ Can reconfigure things the user touches on a sub atomic level.
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the Basilisk - Master of Alchemy
+## Incomplete Velto Oktae: Sign of the Basilisk - Master of Alchemy
 ___
 No longer requires touch.
 ___

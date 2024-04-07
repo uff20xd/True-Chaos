@@ -1,5 +1,19 @@
-**Orderset: The Heaven over all  | Type: Manipulation**
-**Innate Chaos: 15 000**
+---
+aliases:
+  - Fantal
+  - Heaven
+  - Key to heaven
+tags:
+  - Antagonist
+  - Antagonists
+  - PrimaryAntagonist
+  - Manipulation
+  - Imaginative-Type
+  - non-chaotic-soul/Heaven
+  - Hybrid
+---
+**Orderset: The Heaven over all  | Type: Manipulation Imaginative**
+**Innate Chaos:  ???**
 
 # Notes
 ## Read this first!!!
@@ -17,6 +31,7 @@ ___
 #PrimaryAntagonist 
 #Manipulation 
 #Student 
+#Imaginative-Type 
 
 ## Plot
 ### Personality
