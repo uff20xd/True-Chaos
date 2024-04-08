@@ -58,20 +58,23 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Liminal
 ___
-
+Keeps the user in an infinite spatial bubble which prevents all contact from the outside without the user permission.
 ___
-
-
 # Active Abilities
-## Ability (Base)
+## Distance Manipulation (Base)
 ___
-
+Can change the distance between two objects in the sensual range of the users soul.
+Requires more chaos the farther the new distance strays from the old one.
+___
+## Post Spatial laceration
+___
+Creates distance within an object, splitting it apart.
 ___
 
 # Soul Inversion
-## Incomplete Velto Oktae: Sign of the "" - ""
+## Incomplete Velto Oktae: Sign of the Basilisk - Liminal Overlay
 ___
-
+The distance between all atoms becomes infinite and allows the user to overlay space which eliminates it completely.
 ___

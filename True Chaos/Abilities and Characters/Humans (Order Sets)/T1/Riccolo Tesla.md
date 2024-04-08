@@ -1,9 +1,17 @@
 ---
-aliases: 
+aliases:
+  - post electric
+  - postelectric
+  - post-electric
 tags:
+  - "#Manipulation"
+  - Modification
+  - T1/Rank14
+  - The-Fools
+  - Grey
 ---
-**Orderset: "name"  | Type: "type of Orderset"
-Innate Chaos:  "Number"
+**Orderset: Post-Electric   | Type: Modification Manipulation
+Innate Chaos:  30 000
 
 # Notes
 ## Read this first!!!
@@ -52,18 +60,25 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Ability (Epsilon)
 ___
 
 ___
 
 
 # Active Abilities
-## Ability (Base)
+## Electro Amplification (Base)
 ___
-
+Can amplify electric charges.
 ___
-
+## Electro Manipulation (Alpha)
+___
+Can manipulate Electricity and Electromagnetic Fields.
+___
+## Electric Anker
+___
+By focusing a lot of electricity the user may create either positive or negative Ankers.
+___
 # Soul Inversion
 ##  Velto Oktae: Sign of the "" - ""
 ___
