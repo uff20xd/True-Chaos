@@ -1,0 +1,1 @@
+The Plan to create a [[non-chaotic spaces|non-chaotic space]] artificially was originally thought of by [[Zeero]]  but latter discarded as an option since its near impossible for them to find the very specific soul fusion ability necessary to create a [[non-chaotic spaces|non-chaotic space]]. Also it would have been pretty useless as he was on the way to get an Enigma [[]]
