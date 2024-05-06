@@ -1,10 +1,14 @@
 ---
-aliases: 
-tags: 
-Rank:
+aliases:
+  - Limit-Expansion Experiment Success
+tags:
+  - Modification
+  - Antagonist
+  - Antagonists
+  - Hybrid
 ---
-**Orderset: "name"  | Type: "type of Orderset"
-Innate Chaos:  "Number"
+**Orderset: Os-R-004-Stability | Type: Modification
+Innate Chaos: 200 000
 
 # Notes
 ## Read this first!!!
@@ -52,20 +56,7 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Stability (Base)
 ___
-
-___
-
-
-# Active Abilities
-## Ability (Base)
-___
-
-___
-
-# Soul Inversion
-##  Velto Oktae: Sign of the "" - ""
-___
-
+Puts the soul into a stable state by passively focusing chaos in the soul.
 ___

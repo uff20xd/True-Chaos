@@ -5,8 +5,10 @@ aliases:
   - too much chaos
 tags:
   - Modification
-  - T1/Rank4
+  - T1
   - T0
+  - Rank4
+Rank: 4
 ---
 **Orderset: All Power  | Type: Modification Exertion
 Innate Chaos:  40 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 

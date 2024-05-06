@@ -1,17 +1,16 @@
 ---
 aliases:
-  - the mathematician
-  - mathematician
-  - unreality
+  - eternal spark
+  - electricity creation
 tags:
-  - The-Fools
-  - T1
-  - Void
-  - Grey
-  - Scraped
+  - Antagonist
+  - Antagonists
+  - ZONE
+  - Exertion
+  - Hybrid
 ---
-**Orderset: Unreality | Type: Void**
-**Innate Chaos:  2 000**
+**Orderset:  Eternal Spark | Type: Exertion**
+**Innate Chaos:  10 000 000**
 
 # Notes
 ## Read this first!!!
@@ -24,12 +23,11 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-#The-Fools
-#T1
-#Void 
-#Grey
-#Unfinished 
-Rank 7
+#Exertion 
+#ZONE 
+#Antagonist 
+#Antagonists 
+
 ## Plot
 ### Personality
 ___
@@ -61,19 +59,23 @@ ___
 
 
 # Passive Abilities
-## Quantities Exaction (Alpha)
+## Eternal Spark: God of Thunder (Epsilon)
 ___
-The user knows the exact quantity of everything he senses around him.
+Focuses electricity in the body creating a strong electromagnetic field which erases matter it touches, while also enhancing bodily functions.
+Puts an insane strain on the users body.
 ___
+
 
 # Active Abilities
-## Unreality (Base)
+## Spark (Base)
 ___
-Can change the properties, natural laws and their magnitude of objects he touches and himself.
+Produces electrical charge in the users hands.
 ___
-
-# Soul Inversion
-## Velto Oktae: Sign of the Fool - Boundless Unreality
+## Eternal Spark (Beta)
 ___
-The user can change properties of non-physical concepts like spacetime or causality including specification.
+Creates an up to infinite amounts electricity which surges through the users body
+___
+### Eternal Spark: Kugelblitz
+___
+Condenses electricity replicating the big bang.
 ___

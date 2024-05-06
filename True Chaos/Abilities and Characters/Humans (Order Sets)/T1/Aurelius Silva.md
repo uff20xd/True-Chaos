@@ -6,7 +6,8 @@ aliases:
 tags:
   - Manipulation
   - Modification
-  - T1/Rank10
+  - T1
+Rank: 10
 ---
 **Orderset: Midas Curse  | Type: Manipulation Modification**
 **Innate Chaos:  40 000**

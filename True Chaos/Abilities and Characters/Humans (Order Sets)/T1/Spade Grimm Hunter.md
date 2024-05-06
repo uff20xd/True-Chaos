@@ -3,7 +3,8 @@ aliases:
   - hand of fate
 tags:
   - Imaginative-Type
-  - T1/Rank13
+  - T1
+Rank: 13
 ---
 **Orderset: Hand of Fate  | Type: Imaginative**
 **Innate Chaos:  50 000**

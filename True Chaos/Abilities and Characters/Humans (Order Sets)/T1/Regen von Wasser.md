@@ -5,7 +5,8 @@ tags:
   - Void
   - The-Fools
   - Grey
-  - T1/Rank12
+  - T1
+Rank: 12
 ---
 **Orderset:  Lag Realisation | Type: Void**
 **Innate Chaos:  1 200**
@@ -15,7 +16,7 @@ tags:
 ___
 The Parentheses behind the function name stands for when the function is achieved.
 Base-As soon as the soul matures
-Alpha requires a bit of training 
+Alpha requires a bit of training
 Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
@@ -61,11 +62,11 @@ ___
 # Passive Abilities
 ## Hit Delay (Alpha)
 ___
-After interacting with something the effect this interaction has on the user can be avoided even after it would have already hit. (0.000000000000000000001sec) --> Hyperlag: 2 sec
+After interacting with something the effect this interaction has on the user can be avoided even after it would have already hit. (0.00001sec) --> Hyperlag: 2 sec
 ___
 ## Hyperlag (Beta)
 ___
-Puts the user in an unstable state but vastly improves lag capabilities. Lets the user use Hyper lag based abilities
+Puts the user in an unstable state but vastly improves lag capabilities. Lets the user use Hyper lag based abilities.
 ____
 
 # Active Abilities

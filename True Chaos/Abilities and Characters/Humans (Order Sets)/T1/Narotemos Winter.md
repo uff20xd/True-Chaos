@@ -5,8 +5,9 @@ aliases:
 tags:
   - Manipulation
   - Professor
-  - T1/Rank11
+  - T1
   - WEOU
+Rank: 11
 ---
 #**Orderset: Liminal Space  | Type: Manipulation**
 **Innate Chaos:  20 000**

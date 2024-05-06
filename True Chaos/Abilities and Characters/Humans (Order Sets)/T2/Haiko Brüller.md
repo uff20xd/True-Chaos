@@ -1,10 +1,13 @@
 ---
-aliases: 
-tags: 
-Rank:
+aliases:
+  - Higher Ground
+tags:
+  - T2
+  - Modification
+Rank: 19
 ---
-**Orderset: "name"  | Type: "type of Orderset"
-Innate Chaos:  "Number"
+**Orderset: Higher Ground  | Type: Modification
+Innate Chaos:  78 000
 
 # Notes
 ## Read this first!!!
@@ -52,20 +55,7 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Higher Ground (Base)
 ___
-
-___
-
-
-# Active Abilities
-## Ability (Base)
-___
-
-___
-
-# Soul Inversion
-##  Velto Oktae: Sign of the "" - ""
-___
-
+The user can sacrifice parts of their body to gain a multiplier in their chaos output. The User will not die from the sacrifice. The sacrificed bodyparts will reappear after 5 minutes and may not be sacrificed for 5 more minutes.
 ___

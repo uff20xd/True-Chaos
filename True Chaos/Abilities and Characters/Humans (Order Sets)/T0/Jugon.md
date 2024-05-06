@@ -4,9 +4,10 @@ aliases:
   - the judge
 tags:
   - T0
-  - T1/Rank5
+  - T1
   - Grey
   - Void
+Rank: 5
 ---
 **Orderset: Consequence Manipulation  | Type: Void**
 **Innate Chaos:  20 000**

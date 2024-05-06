@@ -5,9 +5,10 @@ tags:
   - Modification
   - Manifestation
   - The-Fools
-  - T2/Rank1
+  - T2
   - Professor
   - WEOU
+Rank: 1
 ---
 **Orderset: Multiplication  | Type: Manifestation Modification**
 **Innate Chaos:  45 000**
@@ -27,7 +28,7 @@ ___
 #Modification 
 #Manifestation
 #The-Fools 
-Rank 1
+
 
 ## Plot
 ### Personality

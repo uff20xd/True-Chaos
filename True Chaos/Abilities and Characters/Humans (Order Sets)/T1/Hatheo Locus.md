@@ -5,8 +5,9 @@ aliases:
 tags:
   - Grey
   - Void
-  - T1/Rank1
+  - T1
   - The-Fools
+Rank: 7
 ---
 **Orderset: Boundless squares  | Type: Void
 Innate Chaos: 900
@@ -56,18 +57,26 @@ ___
 ___
 You can use Ordersets stored using unreal squares, but only one of them at a time. Can only be used for up to 4 minute until it requires a cooldown to be used again.
 ___
-
+## Golden Middle (Beta)
+___
+By putting yourself in the nonexistence position in the middle of the golden ratio he is unreachable.
+He can also lock people in place by rotating the Spiral.
+___
 # Active Abilities
 ## Unreal Square (Base)
 ___
-Creates a squarer on an object the user touches. These squares can be stacked up to 4 time.
+Creates a squarer on an object the user touches. These squares can be stacked up to 5 time.
+They can also be created on Space itself or on air affecting everything within.
 
 **First Square:** Creates a weak point which ignores durability and logic.
-**Second Square:** The User can can change the laws of physics for the targeted object.
-**Third Square:** Creates an infinite spiral inward using the golden ratio infinitely increasing the space the user needs to advance to go farther way from the user or to get closer to the user.
-**Fourth Square:** Approximates the opponents soul creating a perfect copy of the opponents orderset. These copies are stored within the users soul and can be used with "Boundless".
 
-The fifth square will one-shot the opponent by creating a negative approximation of the opponent and overlaying it with actual one negating it.
+**Second Square:** The Object is has its fate split in two one lagging behind by .1 seconds giving unchangeable precognition.
+
+**Third Square:** Creates an infinite spiral inward using the golden ratio infinitely increasing the space the user needs to advance to go farther way from the user or to get closer to the user.
+
+**Fourth Square:** Approximates the opponents soul creating a perfect copy of the opponents Orderset. These copies are stored within the users soul and can be used with "Boundless".
+
+**Fifth Square** will one-shot the opponent by creating a negative approximation of the opponent and overlaying it with actual one negating it.
 ___
 
 # Soul Inversion

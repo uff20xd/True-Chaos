@@ -4,9 +4,11 @@ aliases:
   - indian guy
 tags:
   - T0
-  - T1/Rank3
+  - T1
   - Grey
   - Manipulation
+  - Rank3
+Rank: 3
 ---
 **Orderset: True Cold  | Type: Manipulation**
 **Innate Chaos: 70 000**

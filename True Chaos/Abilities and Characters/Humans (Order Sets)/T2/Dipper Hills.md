@@ -1,31 +1,30 @@
 ---
 aliases:
-  - prima nova
+  - Gravity Hills
 tags:
-  - T2/Rank3
-  - Exertion
-  - Professor
-  - WEOU
-Rank:
+  - T2
+  - Manifestation
+Rank: 4
 ---
-**Orderset: Prima Nova  | Type: Exertion**
-**Innate Chaos:  100 000**
+**Orderset: Gravity Hills | Type: Manifestation
+Innate Chaos:  
 
 # Notes
 ## Read this first!!!
 ___
 The Parentheses behind the function name stands for when the function is achieved.
-Base-As soon as the soul matures
-Alpha requires a bit of training 
-Beta is never achieved by most people and requires lots of hard training
-Epsilon is rare af and requires about 40 years of training to get
-Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
-___
-### Hashtags (Ignore)
-#Exertion 
-#T2
-Rank 3
 
+Base-As soon as the soul matures
+
+Alpha is never achieved by most people and requires a bit of training 
+
+Beta requires lots of hard training
+
+Epsilon is rare af and requires about 40 years of training to get
+
+Gamma functions you aint seeing if you aren't in the top 50 at least. 200 years at least. Also pretty rare to actually appear in fully manifested Ordersets.
+
+___
 ## Plot
 ### Personality
 ___
@@ -69,3 +68,8 @@ ___
 
 ___
 
+# Soul Inversion
+##  Velto Oktae: Sign of the "" - ""
+___
+
+___

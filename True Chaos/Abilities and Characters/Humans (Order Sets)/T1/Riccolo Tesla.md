@@ -6,9 +6,10 @@ aliases:
 tags:
   - "#Manipulation"
   - Modification
-  - T1/Rank14
   - The-Fools
   - Grey
+  - "#T1"
+Rank: 14
 ---
 **Orderset: Post-Electric   | Type: Modification Manipulation
 Innate Chaos:  30 000
@@ -75,12 +76,18 @@ ___
 ___
 Can manipulate Electricity and Electromagnetic Fields.
 ___
-## Electric Anker
+## Electric Anker (Beta)
 ___
 By focusing a lot of electricity the user may create either positive or negative Ankers.
 ___
-# Soul Inversion
-##  Velto Oktae: Sign of the "" - ""
+## Post-Electric Field (Beta)
 ___
-
+Using a negative and a positive Anker the user may create an electromagnetic Field which will make all attacks unavoidable for objects inside the field.
+It also passively rips apart everything inside and amps the users attacks. Its size and potency can be increased by using more ankers:
+___
+# Soul Inversion
+## Incomplete Velto Oktae: Sign of the Basilisk - Zeus Ex Machina
+___
+Requires 16 ankers of which half are positive and half are negative.
+Converts all energy that comes in contact with electricity into electricity and it also allow the user to manipulate the electromagnetic force.
 ___

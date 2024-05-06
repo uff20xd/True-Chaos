@@ -1,17 +1,16 @@
 ---
 aliases:
-  - the mathematician
-  - mathematician
-  - unreality
+  - swordsmith
 tags:
-  - The-Fools
-  - T1
-  - Void
-  - Grey
-  - Scraped
+  - Antagonist
+  - Antagonists
+  - ZONE
+  - Manifestation
+  - Hybrid
+  - Humonculus
 ---
-**Orderset: Unreality | Type: Void**
-**Innate Chaos:  2 000**
+**Orderset: Divine Swordsmith  | Type: Manifestation**
+**Innate Chaos:  500 000**
 
 # Notes
 ## Read this first!!!
@@ -24,12 +23,10 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-#The-Fools
-#T1
-#Void 
-#Grey
-#Unfinished 
-Rank 7
+#Antagonist 
+#Antagonists 
+#ZONE 
+#Manifestation 
 ## Plot
 ### Personality
 ___
@@ -61,19 +58,19 @@ ___
 
 
 # Passive Abilities
-## Quantities Exaction (Alpha)
+## Divine Resistance (Alpha)
 ___
-The user knows the exact quantity of everything he senses around him.
+Swords become immune to the last 3 sources of destruction of previous swords.
 ___
+
 
 # Active Abilities
-## Unreality (Base)
+## Swordsmith (Base)
 ___
-Can change the properties, natural laws and their magnitude of objects he touches and himself.
+Creates a sword with a with an attribute chosen by the user. There can be up to 3 swords at a time and they disappear when broken.
 ___
 
-# Soul Inversion
-## Velto Oktae: Sign of the Fool - Boundless Unreality
+## Sword Fusion (Beta)
 ___
-The user can change properties of non-physical concepts like spacetime or causality including specification.
+Can fuse multiple swords together combining their attributes. Still counts as multiple swords.
 ___

@@ -1,17 +1,18 @@
 ---
 aliases:
-  - the mathematician
-  - mathematician
-  - unreality
+  - monarchy
+  - anti paak
+  - counter paak
 tags:
-  - The-Fools
-  - T1
-  - Void
-  - Grey
-  - Scraped
+  - Antagonist
+  - Antagonists
+  - Modification
+  - Humonculus
+  - Hybrid
+  - ZONE
 ---
-**Orderset: Unreality | Type: Void**
-**Innate Chaos:  2 000**
+**Orderset: Monarchy  | Type: Modification
+**Innate Chaos:  7 000 000**
 
 # Notes
 ## Read this first!!!
@@ -24,12 +25,11 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-#The-Fools
-#T1
-#Void 
-#Grey
-#Unfinished 
-Rank 7
+#Modification
+#Antagonist 
+#Antagonists 
+#ZONE 
+
 ## Plot
 ### Personality
 ___
@@ -61,19 +61,12 @@ ___
 
 
 # Passive Abilities
-## Quantities Exaction (Alpha)
+## Monarchy (Base)
 ___
-The user knows the exact quantity of everything he senses around him.
+Makes the user immune to chaos lower than the users own, while also absorbing it.
 ___
-
-# Active Abilities
-## Unreality (Base)
+## Royal Order (Alpha)
 ___
-Can change the properties, natural laws and their magnitude of objects he touches and himself.
-___
-
-# Soul Inversion
-## Velto Oktae: Sign of the Fool - Boundless Unreality
-___
-The user can change properties of non-physical concepts like spacetime or causality including specification.
+Chaos used for techniques isnt lost but returned to the body and he can control even the chaos of the opponent as long as their chaos is lower than the users.
+Lets the user manipulate chaos in a massivly larger range.
 ___

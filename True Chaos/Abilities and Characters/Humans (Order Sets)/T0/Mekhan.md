@@ -2,9 +2,11 @@
 aliases: 
 tags:
   - T0
-  - T1/Rank6
+  - T1
   - Grey
   - Manifestation
+  - Rank6
+Rank: 6
 ---
 **Orderset: Gate of Chaos | Type: Manifestation**
 **Innate Chaos:  100 000**
@@ -100,8 +102,13 @@ Can slash concepts and is able create slashes on any object it has touched befor
 Slashes anything near you in half, ad infinitum .
 ___
 
-# Soul Inversion
-## TrueVelto Oktae: Sign of the Pheonix - Ring 1: Clover
+### Ring 1 - Clover
 ___
 A rapier that manipulates probability.
+___
+
+# Soul Inversion
+## True Velto Oktae: Sign of the Basilisk - Deths Thar
+___
+Applies all abilities at the same time. Also creates a new weapon every time the user gets hit with a direct counter to the source of damage. Also passively strikes the opponent with slashes .
 ___

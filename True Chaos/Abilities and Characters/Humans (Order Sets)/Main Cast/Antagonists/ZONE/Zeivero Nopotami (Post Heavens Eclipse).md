@@ -11,8 +11,8 @@ tags:
   - ZONE
 Rank: 8
 ---
-**Orderset:  Words of Wisdom | Type: Imaginative
-Innate Chaos:  60 000"**
+**Orderset:  limitless world (fictionless) | Type: Imaginative
+Innate Chaos:  200 000**
 # Notes
 ## Read this first!!!
 ___
@@ -30,6 +30,7 @@ ___
 #Imaginative-Type
 #ZONE
 #T1
+
 
 ## Plot
 ### Personality
@@ -63,40 +64,28 @@ He is currently in the Possession of over 60 000 souls most of which are phantom
 ___
 
 # Passive Abilities
-## Souls Reaper (Base)
+## Infinity
 ___
-Has command over all souls he has absorbed.
+Hehe Gojo lol
 ___
-
 # Active Abilities
-## Absorb (Base)
+## Limitless - Blue 
 ___
-Can remove and store the Souls of someone he touches as long as they are weakened enough. This will kill the opponent up to 3 minutes after the souls stolen.
+Gojo heheh
 ___
-
-## Lich 
-### Burn (Base)
+## Limitless - Red
 ___
-Destroys one or multiple souls to turn them into raw chaos for personal use.
+Gojo hehehe
 ___
-### Lich (Beta)
+## Limitless - Hollow Purple
 ___
-Can burn up a soul for a one time use of one of their Ordersets function.
+Existence erasure heheheheha
 ___
-
-## Rebuild
-### Dismantle (Beta)
+## The World
 ___
-Takes apart an absorbed soul so they can be burned up separately or used in something else.
+Stops time for up to 5 seconds
 ___
-### Fuse (Epsilon)
+## Infinite Void
 ___
-Can fuse together parts from different souls to create a new one. Can also be used to fuse Ordersets to create new ones or combine the Capacity of chaos from phantoms with the well defined hax of Ordersets.
-Can also be used to fuse souls to new objects or bodies and give them commands.
-Is one of the ways to artificially create artifacts. 
-___
-# Soul Inversion
-## Velto Oktae: Sign of the Basilisk - A gods grace
-___
-Now no longer needs touch an can just take all souls in radius as long as they are much weaker than him.
+Infinite information boom
 ___

@@ -1,8 +1,10 @@
 ---
-aliases: 
+aliases:
+  - Reassembly
 tags:
   - Modification
-  - T1/Rank9
+  - T1
+Rank: 9
 ---
 **Orderset: Reassembly  | Type: Modification 
 Innate Chaos: 30 000**

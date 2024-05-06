@@ -3,13 +3,15 @@ aliases:
   - singularity realisation
 tags:
   - T0
-  - T1/Rank2
+  - T1
   - Grey
   - Manifestation
   - Manipulation
   - Exertion
   - Imaginative-Type
   - Modification
+  - Rank2
+Rank: 2
 ---
 **Orderset: Singularity Realisation  | Type: Manifestation Exertion Manipulation Imaginative Modification
 Innate Chaos:  200 000

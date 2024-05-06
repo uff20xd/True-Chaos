@@ -1,10 +1,17 @@
 ---
-aliases: 
-tags: 
-Rank:
+aliases:
+  - Unholy Insurgency
+tags:
+  - Exertion
+  - Antagonist
+  - Antagonists
+  - Imaginative-Type
+  - ZONE
+  - Hybrid
+  - Humonculus
 ---
-**Orderset: "name"  | Type: "type of Orderset"
-Innate Chaos:  "Number"
+**Orderset: Unholy Insurgency  | Type: Imaginary Exertion
+Innate Chaos: 
 
 # Notes
 ## Read this first!!!
@@ -52,9 +59,11 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Sins of the Crucified (Alpha)
 ___
-
+Spawns a cross behind every Human with a soul and holes will start to appear on the Victims wrists and neck. This can be defended using a fuck ton of chaos. 
+The soul can not go further than 20m away from the cross and as soon as the holes fully manifested they will be forced on the cross and have their Soul instantly erased.
+The more the holed manifest the more chaos the victim loses and the heavier the body parts get.
 ___
 
 

@@ -2,11 +2,12 @@
 aliases:
   - Entropies Vigil
 tags:
-  - T1/Rank15
   - Modification
   - Exertion
   - Manifestation
   - Jumble-Based
+  - "#T1"
+Rank: 15
 ---
 **Orderset: Entropies Vigil  | Type: Modification Exertion Manifestation 
 Innate Chaos: 55.000

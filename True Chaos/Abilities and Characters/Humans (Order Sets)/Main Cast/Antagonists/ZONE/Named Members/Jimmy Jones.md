@@ -1,17 +1,19 @@
 ---
 aliases:
-  - the mathematician
-  - mathematician
-  - unreality
+  - counter force
 tags:
-  - The-Fools
-  - T1
-  - Void
-  - Grey
-  - Scraped
+  - Antagonist
+  - Antagonists
+  - Exertion
+  - Imaginative-Type
+  - ZONE
+  - Humonculus
+  - Hybrid
+  - Professor
+  - WEOU
 ---
-**Orderset: Unreality | Type: Void**
-**Innate Chaos:  2 000**
+**Orderset: Counter Force  | Type: Imaginative Exertion**
+**Innate Chaos:  3 000 000**
 
 # Notes
 ## Read this first!!!
@@ -24,12 +26,8 @@ Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### Hashtags (Ignore)
-#The-Fools
-#T1
-#Void 
-#Grey
-#Unfinished 
-Rank 7
+
+
 ## Plot
 ### Personality
 ___
@@ -61,19 +59,20 @@ ___
 
 
 # Passive Abilities
-## Quantities Exaction (Alpha)
-___
-The user knows the exact quantity of everything he senses around him.
+## Ability (Alpha)
 ___
 
-# Active Abilities
-## Unreality (Base)
 ___
-Can change the properties, natural laws and their magnitude of objects he touches and himself.
+
+
+# Active Abilities
+## Ability (Base)
+___
+
 ___
 
 # Soul Inversion
-## Velto Oktae: Sign of the Fool - Boundless Unreality
+##  :Sign of the "" - ""
 ___
-The user can change properties of non-physical concepts like spacetime or causality including specification.
+
 ___

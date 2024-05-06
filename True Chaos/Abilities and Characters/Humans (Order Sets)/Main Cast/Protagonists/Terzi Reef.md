@@ -65,16 +65,16 @@ ___
 ___
 Can change the direction of any Vector.
 ___
-
 ## Kinetic Impact (Alpha):
 ___
 Creates an Impact on any Object touched by the User
 ___
-
 ## Impact Simulation (Beta)
 ___
-Can create an imaginary cause with an actual effect on any object the user senses.
+Can create an imaginary cause with an actual effect on any object the user senses. The power diminishes the farther away from the user
 ___
+
+
 # Soul Inversion
 ## Incomplete Velto Oktae: Sign of the Basilisk - Death Simulation
 ___

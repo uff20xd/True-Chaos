@@ -1,0 +1,3 @@
+Himmelism is the believe that God sacrificed himself for his creation of humanity to create the perfectly ordered world of Heaven. This Heaven is adjusted for every bodies needs and want. A perfect afterlife.
+This heaven can be entered by anybody even if they did bad things in their lifetime but it does require redemption based on what's been done.
+The Belief sprung forth at around 300 years before the invention of the modern calendar system and spread like wildfire from its origins somewhere in west-Europe.

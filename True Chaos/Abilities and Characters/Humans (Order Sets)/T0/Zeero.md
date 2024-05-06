@@ -4,11 +4,12 @@ aliases:
   - zero
 tags:
   - T0
-  - T1/Rank1
+  - T1
   - Grey
   - The-Fools
   - Void
   - non-chaotic-soul/enigma
+Rank: 1
 ---
 **Orderset: True Neutral (+O-) | Type: Void**
 **Innate chaos: 1**
@@ -30,7 +31,7 @@ ___
 #Grey 
 #The-Fools
 #Void
-Rank 1
+
 ### Personality
 ___
 
@@ -65,58 +66,59 @@ ___
 
 
 # Passive Abilities
-## Neutrality (Passive)
+## Neutrality (Alpha)
 ___
 The users body gets reset upon change to a neutral Point.
 Also resets your Energy storage to full.
 ___
-
-## Zero Space (Passive)
+## Zero Space (Beta)
 ___
 Creates Void around the user which prevents all contact with him.
 ___
-
-
-## Absolute Zero (Passive)
+## Absolute Zero (Gamma)
 Makes all functions cost no chaos to manifest.
 ___
-Negates all concepts and strips anything of their properties if it interacts with the user in any direct or indirect way (and anything in the range around the user body, which is decided by the user) when not permitted by the user himself
+Negates all concepts and strips any of their properties if it interacts with the user in any direct or indirect way (and anything in the range around the user body which is decided by the user) when not permitted by the user himself.
+This ability is absolute and unavoidable (exception being a non-Chaotic Space).
 _________________________________________________
 
 
 # Active Abilities
 
-## Negation  (Active) 
-### Nullify (1. Tier)
+## Negation   
+### Nullify (Alpha)
 ___
 Can negate parts of physics, specifically motion.
 ___
-### Negation (2.Tier)
+### Negation (Beta)
 ___
-Can now negate chaos phenomena and everything below.
+Can now negate aspects and properties of objects the user touches including matter,
 ___ 
-### Null (3. Tier)
+### Null (Gamma)
 ___
-Perfect negation of everything and anything. Works without logic or reason making it possible to negate the nonexistence of things.
+Can negate anything.
 ___ 
 
 
-Point Zero Base (Active)
----------------------
+## Point Zero Base (Epsilon)
+___
 Creates an infinity small point containing nothing. Is used to weaponize passives abilities.
-
-**|Point Zero-Position Reset ) {dependant on "Neutrality"}:**
+___
+### **Point Zero - Neutral Position**
+___
 Uses Neutral Energy to switch places with the point.] 
 {Burns out dependant ability for .2 sec}
-
-**|Point Zero-extended Space (Epsilon|+) {dependant on "Zero Space"}:**
+___
+### Point Zero - Void Space
+___
 Uses positive chaos to make the point larger bending space around it, pushing anything away, ignoring the laws of physics and shattering anything around it, even elastic surfaces.
 {Burns out dependant ability for 1.5 sec}
 
 **||Function Reversal-Twisted Space:**
 twist Space inwards creating a force similar to gravity plus a spin around the point
-
-**|Point Zero-Limit Null {dependant on "Absolute Zero"}:**
+___
+### Point Zero - Limit Null
+___
 Uses negative energy to strengthen the void. Creates radius around the Point erasing everything within it and striping it of their past, present, future and Interaction with Reality.
 {Burns out dependant Ability for 2 sec}
 
