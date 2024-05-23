@@ -1,12 +1,12 @@
 ---
 aliases:
-  - hand of fate
+  - Pokerface
 tags:
   - Imaginative-Type
   - T1
 Rank: 13
 ---
-**Orderset: Hand of Fate  | Type: Imaginative**
+**Orderset: Pokerface  | Type: Imaginative**
 **Innate Chaos:  50 000**
 
 # Notes
@@ -19,10 +19,7 @@ Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
-### Hashtags (Ignore)
-#Imaginative-Type 
-#T1
-Rank 13
+
 ## Plot
 ### Personality
 ___
@@ -54,7 +51,7 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## Hands of Fate (Base)
 ___
 
 ___

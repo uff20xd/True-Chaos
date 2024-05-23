@@ -26,15 +26,7 @@ Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
-### Hashtags (Ignore)
-#T0
-#T1
-#Grey
-#Manifestation
-#Manipulation 
-#Exertion 
-#Imaginative-Type
-Rank 2
+
 ## Plot
 ### Personality
 ___

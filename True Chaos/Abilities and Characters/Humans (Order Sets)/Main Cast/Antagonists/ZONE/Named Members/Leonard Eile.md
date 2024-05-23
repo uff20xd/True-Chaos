@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Heathens
+  - Discord
+  - ManILoveTimeAbilities
 tags:
   - Antagonist
   - Antagonists
   - Imaginative-Type
-  - Hybrid
   - ZONE
 ---
-**Orderset: Heathens  | Type: Imaginary
-Innate Chaos: 1 200 000
+**Orderset: Discord | Type: Imaginative
+Innate Chaos:  45 000
 
 # Notes
 ## Read this first!!!
@@ -56,16 +56,15 @@ ___
 ___
 
 
-# Passive Abilities
-## Ability (Alpha)
-___
-
-___
-
 
 # Active Abilities
-## Ability (Base)
+## Discord (Base)
 ___
-
+Turns back time for everyone but the User.
+By touching another Soul he can transfer the burden of the ability and also reverse himself.
+___
+## Discord Phase (Alpha)
+___
+Turns back time everyone including the user. The User will retain the old string of fate while everyone else is put on a new one until they converge again after the reversed time ends. During this time he is effectively completely invulnerable. He can still effect the new fate but he can not reverse time into the old reversed time without overwriting its effects.
 ___
 

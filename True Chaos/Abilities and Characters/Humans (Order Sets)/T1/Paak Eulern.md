@@ -1,8 +1,8 @@
 ---
 aliases:
   - seasons
-  - seasons of power
-  - seasons of life
+  - What a wonderful World
+  - As the World caves in
 tags:
   - "#Exertion"
   - Manipulation
@@ -11,7 +11,7 @@ tags:
   - T1
 Rank: 16
 ---
-**Orderset: Seasons of Power  | Type: Exertion Manipulation**
+**Orderset: What a wonderful World  | Type: Exertion Manipulation**
 **Innate Chaos:  70 000**
 
 # Notes
@@ -24,13 +24,7 @@ Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
-### Hashtags (Ignore)
-#Exertion 
-#Manipulation 
-#The-Fools
-#T1
-#Grey 
-Rank 15
+
 ## Plot
 ### Personality
 ___
@@ -69,7 +63,7 @@ ___
 
 
 # Active Abilities
-## Seasons of Power (Base)
+## What a wonderful World (Base)
 ___
 The ability changes based on the season and becomes more throughout the year.
 ___
@@ -90,7 +84,7 @@ ___
 The user can manipulate hydrogen and remove energy.
 ____
 # Soul Inversion
-## Velto Oktae: Sign of the Basilisk - Cycle of Life
+## Velto Oktae: Sign of the Basilisk - As the world caves in
 ___
 Cycles through the seasons becoming stronger the closer to the end.
 ___

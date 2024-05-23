@@ -2,7 +2,7 @@ ___
 >[!table]- 1 [[#Mechanics]]
 >>1.1 [[#What is Chaos?]]
 >>1.2 [[#Chaos Charge]]
->>1.3
+>>1.3 [[#Lapse]]
 
 >[!table]- 2 [[#Basics]]
 >>2.1 [[#Soul Cycling]]
@@ -40,12 +40,23 @@ Chaos  normally has a neutral charge and gets converted into a different charge 
 Trying to feed static chaos of a wrong charge into a function will backfire and cause heavy damage to yourself.
 There are ways to feed the opposite of the either positive or negative charge into a function using [[#Function Reversal]].
 ___
+## Lapse
+___
+Lapse refers to how many cycles it takes for a technique to be initiated. This is also indirectly connected to efficiency as the output of the technique is divided by the Lapse.
+
+The true mastery over a technique can be seen by a low lapse amount. 
+Only the most skilled reach 1-lapse on any technique. 1-lapse is the lowest amount of initiation time that can be reached without the usage of an Orderset.
+
+The 0-lapse:
+0-lapse is a technique which completely skips the cycle removing initiation time and increasing the output by a bit. This takes a more specific Orderfunction like True Neutrals "Neutrality". Norexander can use a pseudo 0-lapse by creating an infinitely small soul cycle through "Blood cycle" and using blood to create a blood seal for the technique.
+___
+
 # Basics
 ## Soul Cycling
 ___
 Soul Cycling is the base to chaos combat. Its the passive ay chaos is pumped through your entire body, amplifying its functions. 
 This should be able to be done passively after about 4 - 20 years of training.
-This also passively defends your body from changing states though modification abilities like [[Aurelius Silva#Midas Curse (Alpha)]] or
+This also passively defends your body from changing states though modification abilities like [[Aurelius Silva#Midas Curse (Alpha)||Midas Curse]] or [[Viktor Wojci#Concentrated Entropy (Alpha)||Concentrated Entropy]].
 ___
 ### Cycle Expansion 
 ___
@@ -139,7 +150,7 @@ There are other sign which are specific to a person or a group.
 The usage also requires the sign being drawn with one own blood and touch it with you hand while saying the incantation.
 The Incantation can be shortened through training and at its max it will look like this.
 
-Sign of the pheonix, Soul Inversion: Velto Oktae - Post Human
+Velto Oktae - Post Human
 
 This can all be done while artificially creating the sign without blood and preparation.
 ___
@@ -158,14 +169,15 @@ ___
 ## Simple Abstricion
 ____
 A technique that creates a small pocket dimension completely removed from reality. This will leave a core in the actual reality from where outside people may enter the abstricion. After once entering the abtricion its impossible to leave if not allowed by the user. The abstricion will disappear upon the death of the user.
-The user can also choose people to forcefully bring into the abstricion as long as they are close to the user.
+The user can also choose people to forcefully bring into the abstricion as long as they are close to the user and their presence is known to the user.
 Simple abstricions are a exact replica of the space around user when created and are made up of 7 Dimensions.
 ____
 ## True Abstricion
 ____
-
+A true abstricion can be largely customised by the user and is now infinite in dimension and completely indestructable.
 ___
 ## Semi- Real Abstricion
 ___
-
+A true abstricion which is based within standard reality while creating an outside barrier. This will draw in other targets in the range the barrier is created around without the user knowing who is around.
+The outside barrier does prevent outside entry and if damaged enough the barrier will fall.
 ___

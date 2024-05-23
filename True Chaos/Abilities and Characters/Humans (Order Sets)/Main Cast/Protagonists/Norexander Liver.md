@@ -1,15 +1,17 @@
 ---
 aliases:
-  - Heathens
+  - Blood//Water
+  - BloodSSWater
 tags:
-  - Antagonist
-  - Antagonists
-  - Imaginative-Type
-  - Hybrid
-  - ZONE
+  - Manipulation
+  - Protagonist
+  - Protagonists
+  - Student
+  - WEOU
+Rank:
 ---
-**Orderset: Heathens  | Type: Imaginary
-Innate Chaos: 1 200 000
+**Orderset: Blood//Water  | Type: Manipulation
+Innate Chaos:  5 000
 
 # Notes
 ## Read this first!!!
@@ -57,15 +59,26 @@ ___
 
 
 # Passive Abilities
-## Ability (Alpha)
+## New Blood (Alpha)
 ___
-
+Lets the user have an infinite amount of blood.
 ___
-
+## Blood cycle
+___
+Uses the blood as an additive conductor for chaos largely improving the effect if the soul cycle. The users blood also automatically absorbs chaos and brings it to the user.
+In addition the user body is always reinforced using blood.
+___
 
 # Active Abilities
-## Ability (Base)
+## Blood manipulation (Base)
+___
+The user can manipulate his own blood.
+___
+
+# Soul Inversion
+## Velto Oktae: Sign of the "" - ""
 ___
 
 ___
+
 

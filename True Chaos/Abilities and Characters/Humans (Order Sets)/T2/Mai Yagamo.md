@@ -1,6 +1,6 @@
 ---
 aliases:
-  - The Trick
+  - Book of Rhymes
 tags:
   - T2
   - "#Imaginative-Type"
@@ -8,7 +8,7 @@ tags:
   - The-Fools
 Rank: 6
 ---
-**Orderset: The Trick  | Type: Manifestation Imaginative
+**Orderset: Book of Rhymes  | Type: Manifestation Imaginative
 Innate Chaos:  23 000
 
 # Notes

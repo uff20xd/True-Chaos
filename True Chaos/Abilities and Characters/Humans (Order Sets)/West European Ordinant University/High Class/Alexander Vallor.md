@@ -1,19 +1,12 @@
 ---
-aliases:
-  - the mathematician
-  - mathematician
-  - unreality
+aliases: 
 tags:
-  - The-Fools
-  - T1
-  - Void
-  - Grey
-  - Scraped
+  - Student
+  - Modification
   - Unfinished
-Rank: 7
 ---
-**Orderset: Unreality | Type: Void**
-**Innate Chaos:  2 000**
+**Orderset: Ghost | Type: Modification**
+**Innate Chaos:  "Number"**
 
 # Notes
 ## Read this first!!!
@@ -25,7 +18,10 @@ Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
-
+### Hashtags (Ignore)
+#Student 
+#Modification
+#Unfinished 
 ## Plot
 ### Personality
 ___
@@ -57,19 +53,15 @@ ___
 
 
 # Passive Abilities
-## Quantities Exaction (Alpha)
+## Disapear (Base)
 ___
-The user knows the exact quantity of everything he senses around him.
+Turns the user invisible.
 ___
+
 
 # Active Abilities
-## Unreality (Base)
+## Paranormal Spread (Alpha)
 ___
-Can change the properties, natural laws and their magnitude of objects he touches and himself.
+Can turn objects the user touches invisible. They will stay invisible until it is deactivated even after its no longer touched
 ___
 
-# Soul Inversion
-## Velto Oktae: Sign of the Fool - Boundless Unreality
-___
-The user can change properties of non-physical concepts like spacetime or causality including specification.
-___

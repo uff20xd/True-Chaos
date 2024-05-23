@@ -9,6 +9,7 @@ tags:
   - PrimaryAntagonist
   - Imaginative-Type
   - ZONE
+  - T1
 Rank: 8
 ---
 **Orderset:  limitless world (fictionless) | Type: Imaginative
@@ -23,14 +24,6 @@ Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
 Gamma functions you aint seeing if you arent in the top 50. 200 years at least.
 ___
-### Hashtags (Ignore)
-#Antagonist
-#Antagonists
-#PrimaryAntagonist
-#Imaginative-Type
-#ZONE
-#T1
-
 
 ## Plot
 ### Personality

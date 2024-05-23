@@ -4,7 +4,7 @@ aliases:
   - postelectric
   - post-electric
 tags:
-  - "#Manipulation"
+  - Manipulation
   - Modification
   - The-Fools
   - Grey
