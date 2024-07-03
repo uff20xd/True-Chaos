@@ -55,12 +55,6 @@ ___
 ___
 
 
-# Passive Abilities
-## Ability (Alpha)
-___
-
-___
-
 
 # Active Abilities
 ## What a wonderful World (Base)

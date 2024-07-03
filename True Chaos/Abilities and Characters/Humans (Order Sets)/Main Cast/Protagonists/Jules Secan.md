@@ -73,6 +73,10 @@ ___
 ___
 Can create an imaginary cause with an actual effect on any object the user senses. The power diminishes the farther away from the user
 ___
+## Limit Simulation (Convergence)
+___
+Allows the user to realize limits and use them in the same way as with impact simulation.
+___
 
 
 # Soul Inversion

@@ -7,7 +7,7 @@ tags:
   - Antagonists
   - Hybrid
 ---
-**Orderset: Os-R-004-Stability | Type: Modification
+**Orderset: Os-R-004 or Stability | Type: Modification
 Innate Chaos: 200 000
 
 # Notes

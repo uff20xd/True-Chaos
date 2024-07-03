@@ -10,7 +10,7 @@ tags:
   - Rank3
 Rank: 3
 ---
-**Orderset: True Cold  | Type: Manipulation**
+**Orderset: Breezeblocks  | Type: Manipulation**
 **Innate Chaos: 70 000**
 
 # Notes:

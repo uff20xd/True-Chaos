@@ -68,7 +68,7 @@ Uses his basically infinite stamina to outlast and drain the enemie until they r
 ___
 ### Scaling 
 ___
-T1-Rank 15
+T1-Rank 15. Is able to defeat a post Oktae Paak i guess but isnt really that strong.
 ___
 
 # Passive Abilities

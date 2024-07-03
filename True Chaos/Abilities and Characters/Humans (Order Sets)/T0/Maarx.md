@@ -10,7 +10,7 @@ tags:
   - Rank4
 Rank: 4
 ---
-**Orderset: All Power  | Type: Modification Exertion
+**Orderset: High Time  | Type: Modification Exertion
 Innate Chaos:  40 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 
 
 # Notes
@@ -55,11 +55,12 @@ ___
 
 
 # Passive Abilities
-## Output Multiplier (Passive)
+
+## High Time (Base)
 ___
-Multiplies the users output by 4.
+Increases the bodily functions of the user.
 ___
-## Divinity (Passive)
+## Divinity (Epsilon)
 ___
 Gives the user an exponential increase in chaos over time in exchange for making him more unstable. May permanently damage the user. The user can form chaos into any energetic phenomena surpassing the physical plane.
 ___

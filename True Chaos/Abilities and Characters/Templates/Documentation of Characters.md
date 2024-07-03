@@ -3,23 +3,23 @@ aliases:
 tags: 
 Rank:
 ---
-**Orderset: "name"  | Type: "type of Orderset"
+**Orderset: "name"  | Type: "type of Oktae"
 Innate Chaos:  "Number"
 
 # Notes
 ## Read this first!!!
 ___
-The Parentheses behind the function name stands for when the function is achieved.
+The Parentheses behind the Branch name stands for the generation of the Branch
 
-Base-As soon as the soul matures
+Base - 0th generation
 
-Alpha is never achieved by most people and requires a bit of training 
+Alpha - 1st generation
 
-Beta requires lots of hard training
+Beta - 2nd generation
 
-Epsilon is rare af and requires about 40 years of training to get
+Epsilon - 3rd generation
 
-Gamma functions you aint seeing if you aren't in the top 50 at least. 200 years at least. Also pretty rare to actually appear in fully manifested Ordersets.
+Gamma Branches are a bit different as they are a stepping stone to non chaotic spaces.
 ___
 ## Plot
 ### Personality

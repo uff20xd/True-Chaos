@@ -44,18 +44,18 @@ ___
 
 ### Style / Tactics
 ___
-
+Can use IR and has an adjusted version of Weltenschwert called "Antipotence".  This technique is one of the only things that can go past [[Zeero#Zero Space (Beta)|Zero Space]].
 ___
 ### Scaling 
 ___
-
+Able to beat the T1 alone extreme diff (T0 and Hatheo excluded for obvious reasons). Probably the next T0 contender.
 ___
 
 
 # Passive Abilities
 ## Hit Delay (Alpha)
 ___
-After interacting with something the effect this interaction has on the user can be avoided even after it would have already hit. (0.00001sec) --> Hyperlag: 2 sec
+After interacting with something the effect this interaction has on the user can be avoided even after it would have already hit. (.5 sec) --> Hyperlag: 2 sec
 ___
 ## Hyperlag (Beta)
 ___

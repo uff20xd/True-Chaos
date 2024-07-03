@@ -9,7 +9,7 @@ tags:
   - The-Fools
 Rank: 7
 ---
-**Orderset: Boundless squares  | Type: Void
+**Orderset: Portrait of a Blank Slate | Type: Void
 Innate Chaos: 900
 
 # Notes
@@ -53,7 +53,7 @@ ___
 
 
 # Passive Abilities
-## Boundless (Base)
+## Boundless Blank (Base)
 ___
 You can use Ordersets stored using unreal squares, but only one of them at a time. Can only be used for up to 4 minute until it requires a cooldown to be used again.
 ___
@@ -63,7 +63,7 @@ By putting yourself in the nonexistence position in the middle of the golden rat
 He can also lock people in place by rotating the Spiral.
 ___
 # Active Abilities
-## Unreal Square (Base)
+## Portrait of Squares (Base)
 ___
 Creates a squarer on an object the user touches. These squares can be stacked up to 5 time.
 They can also be created on Space itself or on air affecting everything within.
