@@ -23,7 +23,6 @@ Base-As soon as the soul matures
 Alpha requires a bit of training 
 Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
-Gamma functions are exceptionally powerful but are useless if a non-chaotic space even just exists
 ___
 
 ### Personality
@@ -43,7 +42,7 @@ ___
 A boy born in a little town in Switzerland with seemingly no talent in anything chaos. His soul had the lowest innate chaos ever registered and as he grew up even the easiest of techniques he couldn't use. Even as he reached puberty he didn't get to use his innate Orderset. He was bullied, beaten and laughed at. 
 But there was something about him that was different  He was fierce and smart and even though it was hard for him he started experimenting with chaos and training his soul and body to rise above what others thought was possible. His goal was to perfect the Oktae and create a non-chaotic space and later even manifest the Truth.
 He learned, experimented and trained through day and night everyday. As a consequence of his low innate chaos his abilities to sense chaos around him was heightened. His control over the little amount of chaos he had was so exquisite that he could strengthen his body beyond recognition. Against everybody's expectations he earned his Ordinant permit breaking many records even some from the later T0 members. 
-After about 2 months he joined the Swiss military and instantly became one of the biggest world wide therats.
+After about 2 months he joined the Swiss military and instantly became one of the biggest world wide threats.
 When 1726 rolled around an the first world war began he was one of the seven driving forces together with the future T0 and Tempora. He killed around 30 000 People during the first WW and became renowned as a brutal fighter who uses nothing but his insane speed and strength to defeat opponent. While he was strong at the time he wasn't really comparable to the future T0 and Tempora and tried to avoid them. After half of Germany, most of France and all of Austria and Australia were destroyed the first World War ended and he was at the top of the Swiss military without ever having used his innate Orderset.
 In the time after WW1 he continued becoming better, developing the first version of "Schwertesseele" and "Limit Extension", while still trying to avoid the future T0 and Tempora. This worked out pretty good until about 1793
 ___
@@ -70,13 +69,6 @@ ___
 ___
 Makes the user exist within a hole in existence in which nothing else is or can be. This void can be modified to some degree. Only existentially inverted concepts or transcendent concepts apply to him.
 ___
-## Absolute Zero (Gamma)
-___
-Negates all concepts and strips any of their properties if it interacts with the user in any direct or indirect way (and anything in the range around the user body which is decided by the user) when not permitted by the user himself.
-This ability is absolute and unavoidable (exception being a non-Chaotic Space).
-Makes all functions cost no chaos to manifest.
-_________________________________________________
-
 
 # **Active Abilities**
 
@@ -89,7 +81,7 @@ ___
 ___
 Can now negate aspects and properties of objects the user touches including matter,
 ___ 
-### Null (Gamma)
+### Null (Epsilon)
 ___
 Can negate anything. 
 ___ 
@@ -108,16 +100,10 @@ ___
 ___
 Uses positive chaos to make the point larger bending space around it, pushing anything away, ignoring the laws of physics and shattering anything around it, even elastic surfaces.
 {Burns out dependant ability for 1.5 sec}
-
-**||Function Reversal-Twisted Space:**
-twist Space inwards creating a force similar to gravity plus a spin around the point
 ___
 ### Point Zero - Limit Null
 ___
 Uses negative energy to strengthen the void. Creates radius around the Point erasing everything within it and striping it of their past, present, future and Interaction with Reality.
-
-**||Function Reversal-Limit Post Divergence:**
-Converges all possibilities into a single point mimicking the Chaos-Convergence.
 _________________________________________________
 
 

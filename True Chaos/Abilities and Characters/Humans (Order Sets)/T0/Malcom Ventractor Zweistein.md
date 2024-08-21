@@ -24,7 +24,6 @@ Base-As soon as the soul matures
 Alpha requires a bit of training 
 Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
-Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 
 ## Plot
@@ -80,27 +79,23 @@ ___
 ___
 Imbues the concept of Healing into the singularity making it restore anything into its best state upon contact also destroying the singularity.
 ___
-### 3rd Form: Yellow (Beta)
+### 3rd Form: Yellow (Alpha+)
 ___
 Imbues the concept of disruption and negation into the singularity stopping anything it hits and disrupting anything around when released.
 ___
-### 4th Form: Orange (Epsilon)
+### 4th Form: Orange (Beta)
 ___
 Can manifest matter temporarily and takes Energy to uphold. The property of the matter can be changed and each property and aspect requires its own singularity.
 ___
-### 5th Form: Red (Epsilon+)
+### 5th Form: Red (Beta+)
 ___
 The Concept of death and despair given an infinite power source. As everything gets erased around it, it multiplies. 
 ___
-### Formless: Violet (Gamma)
+### Formless: Violet (Epsilon)
 ___
 It isnt imbued with a concept but instead erases the concepts and properties of everything it effects.
 ___
 
-## Singularity Inversion (Beta+)
-___
-Applies the effects of Singularities in a area.
-___
 # Soul Inversion
 ## TrueVelto Oktae: Sign of the Basilisk - Colours of Delight
 ___

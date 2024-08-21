@@ -19,7 +19,7 @@ Beta - 2nd generation
 
 Epsilon - 3rd generation
 
-Gamma Branches are a bit different as they are a stepping stone to non chaotic spaces.
+Heaven/Enigma - 4th generation
 ___
 ## Plot
 ### Personality

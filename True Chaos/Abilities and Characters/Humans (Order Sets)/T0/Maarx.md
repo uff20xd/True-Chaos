@@ -10,8 +10,8 @@ tags:
   - Rank4
 Rank: 4
 ---
-**Orderset: High Time  | Type: Modification Exertion
-Innate Chaos:  40 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 
+**Orderset: Wesleys Theory  | Type: Modification Exertion
+Innate Chaos:  4e20000
 
 # Notes
 ## Read this first!!!
@@ -21,7 +21,6 @@ Base-As soon as the soul matures
 Alpha requires a bit of training 
 Beta is never achieved by most people and requires lots of hard training
 Epsilon is rare af and requires about 40 years of training to get
-Gamma functions you aint seeing if you arent in the top 50 at least. 200 years at least.
 ___
 ### 
 ## Plot
